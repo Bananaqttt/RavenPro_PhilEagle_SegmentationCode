@@ -1,0 +1,553 @@
+start,end,label_base,label_full,quality,group_id,selection_numbers,location_id,segment_filename,output_folder,source_audio,label
+107.3938247,112.3938247,NoEagleSound,NoEagleSound,,455,,Davao del Sur,converted_18531_seg0063.wav,Davao del Sur\NoEagleSound,converted_18531.wav,NoEagleSound
+661.5579467,666.5579467,NoEagleSound,NoEagleSound,,1750,,Davao del Sur,converted_converted_135598_seg0477.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+34.07819173,39.07819173,NoEagleSound,NoEagleSound,,572,,Davao del Sur,converted_18535_seg0051.wav,Davao del Sur\NoEagleSound,converted_18535.wav,NoEagleSound
+181.8285225,186.8285225,NoEagleSound,NoEagleSound,,763,,Cotabato,converted_18545_seg0088.wav,Cotabato\NoEagleSound,converted_18545.wav,NoEagleSound
+297.0641098,302.0641098,NoEagleSound,NoEagleSound,,821,,Cotabato,converted_18601_seg0030.wav,Cotabato\NoEagleSound,converted_18601.wav,NoEagleSound
+35.0952267,40.0952267,NoEagleSound,NoEagleSound,,1259,,Cotabato,converted_18680_seg0065.wav,Cotabato\NoEagleSound,converted_18680.wav,NoEagleSound
+1091.897807,1096.897807,NoEagleSound,NoEagleSound,,196,,Davao del Sur,converted_179796_seg0084.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+96.83433545,101.8343354,NoEagleSound,NoEagleSound,,419,,Davao del Sur,converted_18524_seg0058.wav,Davao del Sur\NoEagleSound,converted_18524.wav,NoEagleSound
+1978.213953,1983.213953,NoEagleSound,NoEagleSound,,1658,,Davao del Sur,converted_converted_135598_seg0385.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+745.1930155,750.1930155,NoEagleSound,NoEagleSound,,201,,Davao del Sur,converted_179796_seg0089.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+2428.278614,2433.278614,NoEagleSound,NoEagleSound,,1806,,Davao del Sur,converted_converted_135598_seg0533.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+160.0027386,165.0027386,NoEagleSound,NoEagleSound,,145,,Davao del Sur,converted_179795_seg0062.wav,Davao del Sur\NoEagleSound,converted_179795.wav,NoEagleSound
+1705.165856,1710.165856,NoEagleSound,NoEagleSound,,1731,,Davao del Sur,converted_converted_135598_seg0458.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+13.62680638,18.62680638,NoEagleSound,NoEagleSound,,704,,Cotabato,converted_18539_seg0017.wav,Cotabato\NoEagleSound,converted_18539.wav,NoEagleSound
+270.3046434,275.3046434,NoEagleSound,NoEagleSound,,656,,Davao del Sur,converted_18537_seg0043.wav,Davao del Sur\NoEagleSound,converted_18537.wav,NoEagleSound
+19.1971962,24.1971962,NoEagleSound,NoEagleSound,,1340,,Cotabato,converted_18707_seg0001.wav,Cotabato\NoEagleSound,converted_18707.wav,NoEagleSound
+28.89684709,33.89684709,NoEagleSound,NoEagleSound,,424,,Davao del Sur,converted_18524_seg0063.wav,Davao del Sur\NoEagleSound,converted_18524.wav,NoEagleSound
+70.18369924,75.18369924,NoEagleSound,NoEagleSound,,502,,Davao del Sur,converted_18532_seg0060.wav,Davao del Sur\NoEagleSound,converted_18532.wav,NoEagleSound
+110.5618521,115.5618521,NoEagleSound,NoEagleSound,,649,,Davao del Sur,converted_18537_seg0036.wav,Davao del Sur\NoEagleSound,converted_18537.wav,NoEagleSound
+1564.685866,1569.685866,NoEagleSound,NoEagleSound,,241,,Davao del Sur,converted_179796_seg0129.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+305.3799474,310.3799474,NoEagleSound,NoEagleSound,,1169,,Cotabato,converted_18679_seg0043.wav,Cotabato\NoEagleSound,converted_18679.wav,NoEagleSound
+251.1308615,256.1308615,NoEagleSound,NoEagleSound,,675,,Davao del Sur,converted_18537_seg0062.wav,Davao del Sur\NoEagleSound,converted_18537.wav,NoEagleSound
+80.97072849,85.97072849,NoEagleSound,NoEagleSound,,1321,,Cotabato,converted_18683_seg0016.wav,Cotabato\NoEagleSound,converted_18683.wav,NoEagleSound
+2363.727611,2368.727611,NoEagleSound,NoEagleSound,,1709,,Davao del Sur,converted_converted_135598_seg0436.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+65.3218688,70.3218688,NoEagleSound,NoEagleSound,,1365,,Davao del Sur,converted_217218_seg0007.wav,Davao del Sur\NoEagleSound,converted_217218.wav,NoEagleSound
+2095.767541,2100.767541,NoEagleSound,NoEagleSound,,1625,,Davao del Sur,converted_converted_135598_seg0352.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+29.4648313,34.4648313,NoEagleSound,NoEagleSound,,806,,Cotabato,converted_18601_seg0015.wav,Cotabato\NoEagleSound,converted_18601.wav,NoEagleSound
+84.00621419,89.00621419,NoEagleSound,NoEagleSound,,552,,Davao del Sur,converted_18535_seg0031.wav,Davao del Sur\NoEagleSound,converted_18535.wav,NoEagleSound
+143.0109971,148.0109971,NoEagleSound,NoEagleSound,,1312,,Cotabato,converted_18683_seg0007.wav,Cotabato\NoEagleSound,converted_18683.wav,NoEagleSound
+92.70583914,97.70583914,NoEagleSound,NoEagleSound,,606,,Davao del Sur,converted_18536_seg0045.wav,Davao del Sur\NoEagleSound,converted_18536.wav,NoEagleSound
+400.8005309,405.8005309,NoEagleSound,NoEagleSound,,664,,Davao del Sur,converted_18537_seg0051.wav,Davao del Sur\NoEagleSound,converted_18537.wav,NoEagleSound
+967.2321939,972.2321939,NoEagleSound,NoEagleSound,,309,,Davao del Sur,converted_179796_seg0197.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+492.8571538,497.8571538,NoEagleSound,NoEagleSound,,767,,Cotabato,converted_18545_seg0092.wav,Cotabato\NoEagleSound,converted_18545.wav,NoEagleSound
+206.075493,211.075493,NoEagleSound,NoEagleSound,,1189,,Cotabato,converted_18679_seg0063.wav,Cotabato\NoEagleSound,converted_18679.wav,NoEagleSound
+963.5886867,968.5886867,NoEagleSound,NoEagleSound,,1620,,Davao del Sur,converted_converted_135598_seg0347.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+108.4072787,113.4072787,NoEagleSound,NoEagleSound,,619,,Davao del Sur,converted_18536_seg0058.wav,Davao del Sur\NoEagleSound,converted_18536.wav,NoEagleSound
+96.611841,101.611841,NoEagleSound,NoEagleSound,,1042,,Cotabato,converted_18663_seg0020.wav,Cotabato\NoEagleSound,converted_18663.wav,NoEagleSound
+43.54214846,48.54214846,NoEagleSound,NoEagleSound,,1050,,Cotabato,converted_18663_seg0028.wav,Cotabato\NoEagleSound,converted_18663.wav,NoEagleSound
+221.3707692,226.3707692,NoEagleSound,NoEagleSound,,119,,Davao del Sur,converted_179795_seg0036.wav,Davao del Sur\NoEagleSound,converted_179795.wav,NoEagleSound
+115.6819409,120.6819409,NoEagleSound,NoEagleSound,,804,,Cotabato,converted_18601_seg0013.wav,Cotabato\NoEagleSound,converted_18601.wav,NoEagleSound
+283.9493446,288.9493446,NoEagleSound,NoEagleSound,,1173,,Cotabato,converted_18679_seg0047.wav,Cotabato\NoEagleSound,converted_18679.wav,NoEagleSound
+57.50005403,62.50005403,NoEagleSound,NoEagleSound,,508,,Davao del Sur,converted_18532_seg0066.wav,Davao del Sur\NoEagleSound,converted_18532.wav,NoEagleSound
+147.1446094,152.1446094,NoEagleSound,NoEagleSound,,1047,,Cotabato,converted_18663_seg0025.wav,Cotabato\NoEagleSound,converted_18663.wav,NoEagleSound
+382.5056154,387.5056154,NoEagleSound,NoEagleSound,,893,,Cotabato,converted_18636_seg0050.wav,Cotabato\NoEagleSound,converted_18636.wav,NoEagleSound
+536.5721843,541.5721843,NoEagleSound,NoEagleSound,,785,,Cotabato,converted_18545_seg0110.wav,Cotabato\NoEagleSound,converted_18545.wav,NoEagleSound
+436.5860238,441.5860238,NoEagleSound,NoEagleSound,,684,,Davao del Sur,converted_18537_seg0071.wav,Davao del Sur\NoEagleSound,converted_18537.wav,NoEagleSound
+1909.458813,1914.458813,NoEagleSound,NoEagleSound,,1755,,Davao del Sur,converted_converted_135598_seg0482.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+23.14156027,28.14156027,NoEagleSound,NoEagleSound,,909,,Cotabato,converted_18636_seg0066.wav,Cotabato\NoEagleSound,converted_18636.wav,NoEagleSound
+105.1181231,110.1181231,NoEagleSound,NoEagleSound,,665,,Davao del Sur,converted_18537_seg0052.wav,Davao del Sur\NoEagleSound,converted_18537.wav,NoEagleSound
+2197.337828,2202.337828,NoEagleSound,NoEagleSound,,1627,,Davao del Sur,converted_converted_135598_seg0354.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+204.1996275,209.1996275,NoEagleSound,NoEagleSound,,126,,Davao del Sur,converted_179795_seg0043.wav,Davao del Sur\NoEagleSound,converted_179795.wav,NoEagleSound
+90.7141557,95.7141557,NoEagleSound,NoEagleSound,,1123,,Cotabato,converted_18678_seg0007.wav,Cotabato\NoEagleSound,converted_18678.wav,NoEagleSound
+96.43791896,101.437919,NoEagleSound,NoEagleSound,,912,,Cotabato,converted_18636_seg0069.wav,Cotabato\NoEagleSound,converted_18636.wav,NoEagleSound
+83.50551413,88.50551413,NoEagleSound,NoEagleSound,,1126,,Cotabato,converted_18678_seg0010.wav,Cotabato\NoEagleSound,converted_18678.wav,NoEagleSound
+886.4957245,891.4957245,NoEagleSound,NoEagleSound,,298,,Davao del Sur,converted_179796_seg0186.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+378.5692642,383.5692642,NoEagleSound,NoEagleSound,,131,,Davao del Sur,converted_179795_seg0048.wav,Davao del Sur\NoEagleSound,converted_179795.wav,NoEagleSound
+246.2016749,251.2016749,NoEagleSound,NoEagleSound,,772,,Cotabato,converted_18545_seg0097.wav,Cotabato\NoEagleSound,converted_18545.wav,NoEagleSound
+339.3367148,344.3367148,NoEagleSound,NoEagleSound,,444,,Davao del Sur,converted_18531_seg0052.wav,Davao del Sur\NoEagleSound,converted_18531.wav,NoEagleSound
+224.3852809,229.3852809,NoEagleSound,NoEagleSound,,796,,Cotabato,converted_18545_seg0121.wav,Cotabato\NoEagleSound,converted_18545.wav,NoEagleSound
+263.4443438,268.4443438,NoEagleSound,NoEagleSound,,1706,,Davao del Sur,converted_converted_135598_seg0433.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+1022.417979,1027.417979,NoEagleSound,NoEagleSound,,292,,Davao del Sur,converted_179796_seg0180.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+1352.509667,1357.509667,NoEagleSound,NoEagleSound,,238,,Davao del Sur,converted_179796_seg0126.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+121.3894061,126.3894061,NoEagleSound,NoEagleSound,,859,,Cotabato,converted_18618_seg0013.wav,Cotabato\NoEagleSound,converted_18618.wav,NoEagleSound
+63.92399954,68.92399954,NoEagleSound,NoEagleSound,,613,,Davao del Sur,converted_18536_seg0052.wav,Davao del Sur\NoEagleSound,converted_18536.wav,NoEagleSound
+32.7153395,37.7153395,NoEagleSound,NoEagleSound,,924,,Cotabato,converted_18654_seg0034.wav,Cotabato\NoEagleSound,converted_18654.wav,NoEagleSound
+34.14441623,39.14441623,NoEagleSound,NoEagleSound,,1075,,Cotabato,converted_18675_seg0032.wav,Cotabato\NoEagleSound,converted_18675.wav,NoEagleSound
+1694.738883,1699.738883,NoEagleSound,NoEagleSound,,1764,,Davao del Sur,converted_converted_135598_seg0491.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+675.4497407,680.4497407,NoEagleSound,NoEagleSound,,1665,,Davao del Sur,converted_converted_135598_seg0392.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+1015.732468,1020.732468,NoEagleSound,NoEagleSound,,209,,Davao del Sur,converted_179796_seg0097.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+8.910846783,13.91084678,NoEagleSound,NoEagleSound,,407,,Davao del Sur,converted_18524_seg0046.wav,Davao del Sur\NoEagleSound,converted_18524.wav,NoEagleSound
+16.88742393,21.88742393,NoEagleSound,NoEagleSound,,96,,Davao del Sur,converted_176497_seg0018.wav,Davao del Sur\NoEagleSound,converted_176497.wav,NoEagleSound
+84.1103577,89.1103577,NoEagleSound,NoEagleSound,,161,,Davao del Sur,converted_179795_seg0078.wav,Davao del Sur\NoEagleSound,converted_179795.wav,NoEagleSound
+30.93808843,35.93808843,NoEagleSound,NoEagleSound,,670,,Davao del Sur,converted_18537_seg0057.wav,Davao del Sur\NoEagleSound,converted_18537.wav,NoEagleSound
+1360.240711,1365.240711,NoEagleSound,NoEagleSound,,188,,Davao del Sur,converted_179796_seg0076.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+688.248619,693.248619,NoEagleSound,NoEagleSound,,207,,Davao del Sur,converted_179796_seg0095.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+319.286301,324.286301,NoEagleSound,NoEagleSound,,506,,Davao del Sur,converted_18532_seg0064.wav,Davao del Sur\NoEagleSound,converted_18532.wav,NoEagleSound
+2369.437816,2374.437816,NoEagleSound,NoEagleSound,,1652,,Davao del Sur,converted_converted_135598_seg0379.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+389.1839947,394.1839947,NoEagleSound,NoEagleSound,,1181,,Cotabato,converted_18679_seg0055.wav,Cotabato\NoEagleSound,converted_18679.wav,NoEagleSound
+199.858959,204.858959,NoEagleSound,NoEagleSound,,1105,,Cotabato,converted_18677_seg0078.wav,Cotabato\NoEagleSound,converted_18677.wav,NoEagleSound
+925.9129704,930.9129704,NoEagleSound,NoEagleSound,,1737,,Davao del Sur,converted_converted_135598_seg0464.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+237.4987788,242.4987788,NoEagleSound,NoEagleSound,,682,,Davao del Sur,converted_18537_seg0069.wav,Davao del Sur\NoEagleSound,converted_18537.wav,NoEagleSound
+210.2255986,215.2255986,NoEagleSound,NoEagleSound,,1118,,Cotabato,converted_18677_seg0091.wav,Cotabato\NoEagleSound,converted_18677.wav,NoEagleSound
+316.4922426,321.4922426,NoEagleSound,NoEagleSound,,642,,Davao del Sur,converted_18537_seg0029.wav,Davao del Sur\NoEagleSound,converted_18537.wav,NoEagleSound
+281.2201209,286.2201209,NoEagleSound,NoEagleSound,,842,,Cotabato,converted_18601_seg0051.wav,Cotabato\NoEagleSound,converted_18601.wav,NoEagleSound
+138.2444017,143.2444017,NoEagleSound,NoEagleSound,,788,,Cotabato,converted_18545_seg0113.wav,Cotabato\NoEagleSound,converted_18545.wav,NoEagleSound
+290.6388823,295.6388823,NoEagleSound,NoEagleSound,,904,,Cotabato,converted_18636_seg0061.wav,Cotabato\NoEagleSound,converted_18636.wav,NoEagleSound
+830.5806017,835.5806017,NoEagleSound,NoEagleSound,,1646,,Davao del Sur,converted_converted_135598_seg0373.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+446.5978842,451.5978842,NoEagleSound,NoEagleSound,,70,,Davao del Sur,converted_176495_seg0114.wav,Davao del Sur\NoEagleSound,converted_176495.wav,NoEagleSound
+2358.387356,2363.387356,NoEagleSound,NoEagleSound,,1802,,Davao del Sur,converted_converted_135598_seg0529.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+2088.652533,2093.652533,NoEagleSound,NoEagleSound,,1642,,Davao del Sur,converted_converted_135598_seg0369.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+380.4434206,385.4434206,NoEagleSound,NoEagleSound,,1114,,Cotabato,converted_18677_seg0087.wav,Cotabato\NoEagleSound,converted_18677.wav,NoEagleSound
+158.4048578,163.4048578,NoEagleSound,NoEagleSound,,501,,Davao del Sur,converted_18532_seg0059.wav,Davao del Sur\NoEagleSound,converted_18532.wav,NoEagleSound
+729.8515499,734.8515499,NoEagleSound,NoEagleSound,,278,,Davao del Sur,converted_179796_seg0166.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+360.7953376,365.7953376,NoEagleSound,NoEagleSound,,837,,Cotabato,converted_18601_seg0046.wav,Cotabato\NoEagleSound,converted_18601.wav,NoEagleSound
+1302.919472,1307.919472,NoEagleSound,NoEagleSound,,1682,,Davao del Sur,converted_converted_135598_seg0409.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+11.81836137,16.81836137,NoEagleSound,NoEagleSound,,863,,Cotabato,converted_18620_seg0005.wav,Cotabato\NoEagleSound,converted_18620.wav,NoEagleSound
+696.6224115,701.6224115,NoEagleSound,NoEagleSound,,1660,,Davao del Sur,converted_converted_135598_seg0387.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+98.5067213,103.5067213,NoEagleSound,NoEagleSound,,857,,Cotabato,converted_18618_seg0011.wav,Cotabato\NoEagleSound,converted_18618.wav,NoEagleSound
+397.0120614,402.0120614,NoEagleSound,NoEagleSound,,213,,Davao del Sur,converted_179796_seg0101.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+84.58235096,89.58235096,NoEagleSound,NoEagleSound,,1272,,Cotabato,converted_18681_seg0011.wav,Cotabato\NoEagleSound,converted_18681.wav,NoEagleSound
+207.601301,212.601301,NoEagleSound,NoEagleSound,,507,,Davao del Sur,converted_18532_seg0065.wav,Davao del Sur\NoEagleSound,converted_18532.wav,NoEagleSound
+397.1493054,402.1493054,NoEagleSound,NoEagleSound,,124,,Davao del Sur,converted_179795_seg0041.wav,Davao del Sur\NoEagleSound,converted_179795.wav,NoEagleSound
+260.4995626,265.4995626,NoEagleSound,NoEagleSound,,134,,Davao del Sur,converted_179795_seg0051.wav,Davao del Sur\NoEagleSound,converted_179795.wav,NoEagleSound
+2455.551606,2460.551606,NoEagleSound,NoEagleSound,,1653,,Davao del Sur,converted_converted_135598_seg0380.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+188.8474858,193.8474858,NoEagleSound,NoEagleSound,,1736,,Davao del Sur,converted_converted_135598_seg0463.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+80.63381921,85.63381921,NoEagleSound,NoEagleSound,,1162,,Cotabato,converted_18679_seg0036.wav,Cotabato\NoEagleSound,converted_18679.wav,NoEagleSound
+319.4086236,324.4086236,NoEagleSound,NoEagleSound,,403,,Davao del Sur,converted_18524_seg0042.wav,Davao del Sur\NoEagleSound,converted_18524.wav,NoEagleSound
+282.313652,287.313652,NoEagleSound,NoEagleSound,,1657,,Davao del Sur,converted_converted_135598_seg0384.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+55.88427078,60.88427078,NoEagleSound,NoEagleSound,,856,,Cotabato,converted_18618_seg0010.wav,Cotabato\NoEagleSound,converted_18618.wav,NoEagleSound
+236.4644869,241.4644869,NoEagleSound,NoEagleSound,,1191,,Cotabato,converted_18679_seg0065.wav,Cotabato\NoEagleSound,converted_18679.wav,NoEagleSound
+17.82150847,22.82150847,NoEagleSound,NoEagleSound,,83,,Davao del Sur,converted_176495_seg0127.wav,Davao del Sur\NoEagleSound,converted_176495.wav,NoEagleSound
+934.0361769,939.0361769,NoEagleSound,NoEagleSound,,318,,Davao del Sur,converted_179796_seg0206.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+680.3146701,685.3146701,NoEagleSound,NoEagleSound,,258,,Davao del Sur,converted_179796_seg0146.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+446.323138,451.323138,NoEagleSound,NoEagleSound,,797,,Cotabato,converted_18545_seg0122.wav,Cotabato\NoEagleSound,converted_18545.wav,NoEagleSound
+1148.678328,1153.678328,NoEagleSound,NoEagleSound,,310,,Davao del Sur,converted_179796_seg0198.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+110.2044812,115.2044812,NoEagleSound,NoEagleSound,,1032,,Cotabato,converted_18663_seg0010.wav,Cotabato\NoEagleSound,converted_18663.wav,NoEagleSound
+521.8428033,526.8428033,NoEagleSound,NoEagleSound,,1743,,Davao del Sur,converted_converted_135598_seg0470.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+313.1929482,318.1929482,NoEagleSound,NoEagleSound,,1239,,Cotabato,converted_18680_seg0045.wav,Cotabato\NoEagleSound,converted_18680.wav,NoEagleSound
+2389.489523,2394.489523,NoEagleSound,NoEagleSound,,1689,,Davao del Sur,converted_converted_135598_seg0416.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+322.3628192,327.3628192,NoEagleSound,NoEagleSound,,158,,Davao del Sur,converted_179795_seg0075.wav,Davao del Sur\NoEagleSound,converted_179795.wav,NoEagleSound
+1990.62773,1995.62773,NoEagleSound,NoEagleSound,,1690,,Davao del Sur,converted_converted_135598_seg0417.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+10.21715668,15.21715668,NoEagleSound,NoEagleSound,,637,,Davao del Sur,converted_18537_seg0024.wav,Davao del Sur\NoEagleSound,converted_18537.wav,NoEagleSound
+450.9918983,455.9918983,NoEagleSound,NoEagleSound,,1260,,Cotabato,converted_18680_seg0066.wav,Cotabato\NoEagleSound,converted_18680.wav,NoEagleSound
+384.8994561,389.8994561,NoEagleSound,NoEagleSound,,1252,,Cotabato,converted_18680_seg0058.wav,Cotabato\NoEagleSound,converted_18680.wav,NoEagleSound
+279.3336075,284.3336075,NoEagleSound,NoEagleSound,,1110,,Cotabato,converted_18677_seg0083.wav,Cotabato\NoEagleSound,converted_18677.wav,NoEagleSound
+1280.623934,1285.623934,NoEagleSound,NoEagleSound,,228,,Davao del Sur,converted_179796_seg0116.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+50.69135345,55.69135345,NoEagleSound,NoEagleSound,,533,,Davao del Sur,converted_18534_seg0012.wav,Davao del Sur\NoEagleSound,converted_18534.wav,NoEagleSound
+303.5477401,308.5477401,NoEagleSound,NoEagleSound,,405,,Davao del Sur,converted_18524_seg0044.wav,Davao del Sur\NoEagleSound,converted_18524.wav,NoEagleSound
+1688.735787,1693.735787,NoEagleSound,NoEagleSound,,1662,,Davao del Sur,converted_converted_135598_seg0389.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+32.61730587,37.61730587,NoEagleSound,NoEagleSound,,465,,Davao del Sur,converted_18531_seg0073.wav,Davao del Sur\NoEagleSound,converted_18531.wav,NoEagleSound
+341.3223065,346.3223065,NoEagleSound,NoEagleSound,,151,,Davao del Sur,converted_179795_seg0068.wav,Davao del Sur\NoEagleSound,converted_179795.wav,NoEagleSound
+127.3715983,132.3715983,NoEagleSound,NoEagleSound,,908,,Cotabato,converted_18636_seg0065.wav,Cotabato\NoEagleSound,converted_18636.wav,NoEagleSound
+1299.381354,1304.381354,NoEagleSound,NoEagleSound,,308,,Davao del Sur,converted_179796_seg0196.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+250.6429565,255.6429565,NoEagleSound,NoEagleSound,,840,,Cotabato,converted_18601_seg0049.wav,Cotabato\NoEagleSound,converted_18601.wav,NoEagleSound
+1415.302436,1420.302436,NoEagleSound,NoEagleSound,,320,,Davao del Sur,converted_179796_seg0208.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+152.614151,157.614151,NoEagleSound,NoEagleSound,,416,,Davao del Sur,converted_18524_seg0055.wav,Davao del Sur\NoEagleSound,converted_18524.wav,NoEagleSound
+136.349049,141.349049,NoEagleSound,NoEagleSound,,1196,,Cotabato,converted_18679_seg0070.wav,Cotabato\NoEagleSound,converted_18679.wav,NoEagleSound
+236.5582432,241.5582432,NoEagleSound,NoEagleSound,,568,,Davao del Sur,converted_18535_seg0047.wav,Davao del Sur\NoEagleSound,converted_18535.wav,NoEagleSound
+75.55353822,80.55353822,NoEagleSound,NoEagleSound,,354,,Davao del Sur,converted_182399_seg0032.wav,Davao del Sur\NoEagleSound,converted_182399.wav,NoEagleSound
+538.2548672,543.2548672,NoEagleSound,NoEagleSound,,239,,Davao del Sur,converted_179796_seg0127.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+41.70224961,46.70224961,NoEagleSound,NoEagleSound,,335,,Davao del Sur,converted_179797_seg0011.wav,Davao del Sur\NoEagleSound,converted_179797.wav,NoEagleSound
+215.0623629,220.0623629,NoEagleSound,NoEagleSound,,1702,,Davao del Sur,converted_converted_135598_seg0429.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+168.3174613,173.3174613,NoEagleSound,NoEagleSound,,759,,Cotabato,converted_18545_seg0084.wav,Cotabato\NoEagleSound,converted_18545.wav,NoEagleSound
+38.41736387,43.41736387,NoEagleSound,NoEagleSound,,925,,Cotabato,converted_18654_seg0035.wav,Cotabato\NoEagleSound,converted_18654.wav,NoEagleSound
+113.3937141,118.3937141,NoEagleSound,NoEagleSound,,562,,Davao del Sur,converted_18535_seg0041.wav,Davao del Sur\NoEagleSound,converted_18535.wav,NoEagleSound
+23.97206173,28.97206173,NoEagleSound,NoEagleSound,,1071,,Cotabato,converted_18675_seg0028.wav,Cotabato\NoEagleSound,converted_18675.wav,NoEagleSound
+46.84085919,51.84085919,NoEagleSound,NoEagleSound,,400,,Davao del Sur,converted_18524_seg0039.wav,Davao del Sur\NoEagleSound,converted_18524.wav,NoEagleSound
+260.0249236,265.0249236,NoEagleSound,NoEagleSound,,1241,,Cotabato,converted_18680_seg0047.wav,Cotabato\NoEagleSound,converted_18680.wav,NoEagleSound
+1138.530324,1143.530324,NoEagleSound,NoEagleSound,,1676,,Davao del Sur,converted_converted_135598_seg0403.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+1950.325465,1955.325465,NoEagleSound,NoEagleSound,,1763,,Davao del Sur,converted_converted_135598_seg0490.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+766.3802961,771.3802961,NoEagleSound,NoEagleSound,,256,,Davao del Sur,converted_179796_seg0144.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+88.27329898,93.27329898,NoEagleSound,NoEagleSound,,1318,,Cotabato,converted_18683_seg0013.wav,Cotabato\NoEagleSound,converted_18683.wav,NoEagleSound
+1710.418509,1715.418509,NoEagleSound,NoEagleSound,,1672,,Davao del Sur,converted_converted_135598_seg0399.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+111.6589934,116.6589934,NoEagleSound,NoEagleSound,,1694,,Davao del Sur,converted_converted_135598_seg0421.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+2108.422245,2113.422245,NoEagleSound,NoEagleSound,,1738,,Davao del Sur,converted_converted_135598_seg0465.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+47.08800419,52.08800419,NoEagleSound,NoEagleSound,,681,,Davao del Sur,converted_18537_seg0068.wav,Davao del Sur\NoEagleSound,converted_18537.wav,NoEagleSound
+312.8244418,317.8244418,NoEagleSound,NoEagleSound,,153,,Davao del Sur,converted_179795_seg0070.wav,Davao del Sur\NoEagleSound,converted_179795.wav,NoEagleSound
+405.1360357,410.1360357,NoEagleSound,NoEagleSound,,274,,Davao del Sur,converted_179796_seg0162.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+59.28424527,64.28424527,NoEagleSound,NoEagleSound,,1235,,Cotabato,converted_18680_seg0041.wav,Cotabato\NoEagleSound,converted_18680.wav,NoEagleSound
+260.585528,265.585528,NoEagleSound,NoEagleSound,,1198,,Cotabato,converted_18679_seg0072.wav,Cotabato\NoEagleSound,converted_18679.wav,NoEagleSound
+233.6245838,238.6245838,NoEagleSound,NoEagleSound,,793,,Cotabato,converted_18545_seg0118.wav,Cotabato\NoEagleSound,converted_18545.wav,NoEagleSound
+100.3344405,105.3344405,NoEagleSound,NoEagleSound,,955,,Cotabato,converted_18657_seg0028.wav,Cotabato\NoEagleSound,converted_18657.wav,NoEagleSound
+250.834393,255.834393,NoEagleSound,NoEagleSound,,505,,Davao del Sur,converted_18532_seg0063.wav,Davao del Sur\NoEagleSound,converted_18532.wav,NoEagleSound
+60.90565728,65.90565728,NoEagleSound,NoEagleSound,,114,,Davao del Sur,converted_179795_seg0031.wav,Davao del Sur\NoEagleSound,converted_179795.wav,NoEagleSound
+80.43334598,85.43334598,NoEagleSound,NoEagleSound,,95,,Davao del Sur,converted_176497_seg0017.wav,Davao del Sur\NoEagleSound,converted_176497.wav,NoEagleSound
+351.931263,356.931263,NoEagleSound,NoEagleSound,,1240,,Cotabato,converted_18680_seg0046.wav,Cotabato\NoEagleSound,converted_18680.wav,NoEagleSound
+1217.517389,1222.517389,NoEagleSound,NoEagleSound,,236,,Davao del Sur,converted_179796_seg0124.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+154.5251063,159.5251063,NoEagleSound,NoEagleSound,,129,,Davao del Sur,converted_179795_seg0046.wav,Davao del Sur\NoEagleSound,converted_179795.wav,NoEagleSound
+187.566583,192.566583,NoEagleSound,NoEagleSound,,1238,,Cotabato,converted_18680_seg0044.wav,Cotabato\NoEagleSound,converted_18680.wav,NoEagleSound
+267.5747521,272.5747521,NoEagleSound,NoEagleSound,,1106,,Cotabato,converted_18677_seg0079.wav,Cotabato\NoEagleSound,converted_18677.wav,NoEagleSound
+428.1846202,433.1846202,NoEagleSound,NoEagleSound,,791,,Cotabato,converted_18545_seg0116.wav,Cotabato\NoEagleSound,converted_18545.wav,NoEagleSound
+459.7031294,464.7031294,NoEagleSound,NoEagleSound,,1771,,Davao del Sur,converted_converted_135598_seg0498.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+102.2801234,107.2801234,NoEagleSound,NoEagleSound,,469,,Davao del Sur,converted_18531_seg0077.wav,Davao del Sur\NoEagleSound,converted_18531.wav,NoEagleSound
+91.15821055,96.15821055,NoEagleSound,NoEagleSound,,935,,Cotabato,converted_18655_seg0034.wav,Cotabato\NoEagleSound,converted_18655.wav,NoEagleSound
+112.7006178,117.7006178,NoEagleSound,NoEagleSound,,63,,Davao del Sur,converted_176495_seg0107.wav,Davao del Sur\NoEagleSound,converted_176495.wav,NoEagleSound
+121.501558,126.501558,NoEagleSound,NoEagleSound,,647,,Davao del Sur,converted_18537_seg0034.wav,Davao del Sur\NoEagleSound,converted_18537.wav,NoEagleSound
+451.4273664,456.4273664,NoEagleSound,NoEagleSound,,770,,Cotabato,converted_18545_seg0095.wav,Cotabato\NoEagleSound,converted_18545.wav,NoEagleSound
+2517.249046,2522.249046,NoEagleSound,NoEagleSound,,1780,,Davao del Sur,converted_converted_135598_seg0507.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+188.1288254,193.1288254,NoEagleSound,NoEagleSound,,1041,,Cotabato,converted_18663_seg0019.wav,Cotabato\NoEagleSound,converted_18663.wav,NoEagleSound
+2471.276323,2476.276323,NoEagleSound,NoEagleSound,,1722,,Davao del Sur,converted_converted_135598_seg0449.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+290.9731435,295.9731435,NoEagleSound,NoEagleSound,,390,,Davao del Sur,converted_18524_seg0029.wav,Davao del Sur\NoEagleSound,converted_18524.wav,NoEagleSound
+279.9001598,284.9001598,NoEagleSound,NoEagleSound,,299,,Davao del Sur,converted_179796_seg0187.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+114.6268159,119.6268159,NoEagleSound,NoEagleSound,,133,,Davao del Sur,converted_179795_seg0050.wav,Davao del Sur\NoEagleSound,converted_179795.wav,NoEagleSound
+328.110787,333.110787,NoEagleSound,NoEagleSound,,138,,Davao del Sur,converted_179795_seg0055.wav,Davao del Sur\NoEagleSound,converted_179795.wav,NoEagleSound
+115.5793328,120.5793328,NoEagleSound,NoEagleSound,,1054,,Cotabato,converted_18663_seg0032.wav,Cotabato\NoEagleSound,converted_18663.wav,NoEagleSound
+51.45810964,56.45810964,NoEagleSound,NoEagleSound,,1076,,Cotabato,converted_18675_seg0033.wav,Cotabato\NoEagleSound,converted_18675.wav,NoEagleSound
+245.409382,250.409382,NoEagleSound,NoEagleSound,,556,,Davao del Sur,converted_18535_seg0035.wav,Davao del Sur\NoEagleSound,converted_18535.wav,NoEagleSound
+879.244787,884.244787,NoEagleSound,NoEagleSound,,200,,Davao del Sur,converted_179796_seg0088.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+1432.740612,1437.740612,NoEagleSound,NoEagleSound,,268,,Davao del Sur,converted_179796_seg0156.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+97.95205352,102.9520535,NoEagleSound,NoEagleSound,,809,,Cotabato,converted_18601_seg0018.wav,Cotabato\NoEagleSound,converted_18601.wav,NoEagleSound
+36.38918221,41.38918221,NoEagleSound,NoEagleSound,,529,,Davao del Sur,converted_18534_seg0008.wav,Davao del Sur\NoEagleSound,converted_18534.wav,NoEagleSound
+39.69410547,44.69410547,NoEagleSound,NoEagleSound,,361,,Davao del Sur,converted_183492_seg0017.wav,Davao del Sur\NoEagleSound,converted_183492.wav,NoEagleSound
+219.1790761,224.1790761,NoEagleSound,NoEagleSound,,838,,Cotabato,converted_18601_seg0047.wav,Cotabato\NoEagleSound,converted_18601.wav,NoEagleSound
+2395.216582,2400.216582,NoEagleSound,NoEagleSound,,1782,,Davao del Sur,converted_converted_135598_seg0509.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+154.331297,159.331297,NoEagleSound,NoEagleSound,,596,,Davao del Sur,converted_18536_seg0035.wav,Davao del Sur\NoEagleSound,converted_18536.wav,NoEagleSound
+1751.469996,1756.469996,NoEagleSound,NoEagleSound,,1732,,Davao del Sur,converted_converted_135598_seg0459.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+2073.59347,2078.59347,NoEagleSound,NoEagleSound,,1788,,Davao del Sur,converted_converted_135598_seg0515.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+31.85317942,36.85317942,NoEagleSound,NoEagleSound,,1363,,Davao del Sur,converted_217218_seg0005.wav,Davao del Sur\NoEagleSound,converted_217218.wav,NoEagleSound
+32.06519814,37.06519814,NoEagleSound,NoEagleSound,,702,,Cotabato,converted_18539_seg0015.wav,Cotabato\NoEagleSound,converted_18539.wav,NoEagleSound
+1746.067265,1751.067265,NoEagleSound,NoEagleSound,,1754,,Davao del Sur,converted_converted_135598_seg0481.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+77.63505415,82.63505415,NoEagleSound,NoEagleSound,,141,,Davao del Sur,converted_179795_seg0058.wav,Davao del Sur\NoEagleSound,converted_179795.wav,NoEagleSound
+270.3447628,275.3447628,NoEagleSound,NoEagleSound,,905,,Cotabato,converted_18636_seg0062.wav,Cotabato\NoEagleSound,converted_18636.wav,NoEagleSound
+231.2939354,236.2939354,NoEagleSound,NoEagleSound,,142,,Davao del Sur,converted_179795_seg0059.wav,Davao del Sur\NoEagleSound,converted_179795.wav,NoEagleSound
+63.38360695,68.38360695,NoEagleSound,NoEagleSound,,355,,Davao del Sur,converted_182399_seg0033.wav,Davao del Sur\NoEagleSound,converted_182399.wav,NoEagleSound
+212.8586868,217.8586868,NoEagleSound,NoEagleSound,,72,,Davao del Sur,converted_176495_seg0116.wav,Davao del Sur\NoEagleSound,converted_176495.wav,NoEagleSound
+15.92232727,20.92232727,NoEagleSound,NoEagleSound,,528,,Davao del Sur,converted_18534_seg0007.wav,Davao del Sur\NoEagleSound,converted_18534.wav,NoEagleSound
+124.6065843,129.6065843,NoEagleSound,NoEagleSound,,1164,,Cotabato,converted_18679_seg0038.wav,Cotabato\NoEagleSound,converted_18679.wav,NoEagleSound
+152.7728758,157.7728758,NoEagleSound,NoEagleSound,,679,,Davao del Sur,converted_18537_seg0066.wav,Davao del Sur\NoEagleSound,converted_18537.wav,NoEagleSound
+45.02004779,50.02004779,NoEagleSound,NoEagleSound,,442,,Davao del Sur,converted_18531_seg0050.wav,Davao del Sur\NoEagleSound,converted_18531.wav,NoEagleSound
+38.74428003,43.74428003,NoEagleSound,NoEagleSound,,940,,Cotabato,converted_18655_seg0039.wav,Cotabato\NoEagleSound,converted_18655.wav,NoEagleSound
+230.4582986,235.4582986,NoEagleSound,NoEagleSound,,1160,,Cotabato,converted_18679_seg0034.wav,Cotabato\NoEagleSound,converted_18679.wav,NoEagleSound
+1038.027125,1043.027125,NoEagleSound,NoEagleSound,,284,,Davao del Sur,converted_179796_seg0172.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+134.1672334,139.1672334,NoEagleSound,NoEagleSound,,516,,Davao del Sur,converted_18532_seg0074.wav,Davao del Sur\NoEagleSound,converted_18532.wav,NoEagleSound
+48.33044008,53.33044008,NoEagleSound,NoEagleSound,,853,,Cotabato,converted_18618_seg0007.wav,Cotabato\NoEagleSound,converted_18618.wav,NoEagleSound
+58.31471191,63.31471191,NoEagleSound,NoEagleSound,,348,,Davao del Sur,converted_182399_seg0026.wav,Davao del Sur\NoEagleSound,converted_182399.wav,NoEagleSound
+114.4508519,119.4508519,NoEagleSound,NoEagleSound,,705,,Cotabato,converted_18539_seg0018.wav,Cotabato\NoEagleSound,converted_18539.wav,NoEagleSound
+1590.224773,1595.224773,NoEagleSound,NoEagleSound,,1766,,Davao del Sur,converted_converted_135598_seg0493.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+56.49963715,61.49963715,NoEagleSound,NoEagleSound,,467,,Davao del Sur,converted_18531_seg0075.wav,Davao del Sur\NoEagleSound,converted_18531.wav,NoEagleSound
+1060.566075,1065.566075,NoEagleSound,NoEagleSound,,1691,,Davao del Sur,converted_converted_135598_seg0418.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+307.0532891,312.0532891,NoEagleSound,NoEagleSound,,1633,,Davao del Sur,converted_converted_135598_seg0360.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+338.7010482,343.7010482,NoEagleSound,NoEagleSound,,1179,,Cotabato,converted_18679_seg0053.wav,Cotabato\NoEagleSound,converted_18679.wav,NoEagleSound
+1223.466981,1228.466981,NoEagleSound,NoEagleSound,,1715,,Davao del Sur,converted_converted_135598_seg0442.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+59.65418095,64.65418095,NoEagleSound,NoEagleSound,,374,,Davao Oriental,converted_18518_seg0020.wav,Davao Oriental\NoEagleSound,converted_18518.wav,NoEagleSound
+83.77436433,88.77436433,NoEagleSound,NoEagleSound,,420,,Davao del Sur,converted_18524_seg0059.wav,Davao del Sur\NoEagleSound,converted_18524.wav,NoEagleSound
+109.7656068,114.7656068,NoEagleSound,NoEagleSound,,422,,Davao del Sur,converted_18524_seg0061.wav,Davao del Sur\NoEagleSound,converted_18524.wav,NoEagleSound
+229.7112165,234.7112165,NoEagleSound,NoEagleSound,,62,,Davao del Sur,converted_176495_seg0106.wav,Davao del Sur\NoEagleSound,converted_176495.wav,NoEagleSound
+573.4294755,578.4294755,NoEagleSound,NoEagleSound,,66,,Davao del Sur,converted_176495_seg0110.wav,Davao del Sur\NoEagleSound,converted_176495.wav,NoEagleSound
+33.82685055,38.82685055,NoEagleSound,NoEagleSound,,1382,,Cotabato,converted_289_seg0018.wav,Cotabato\NoEagleSound,converted_289.wav,NoEagleSound
+103.2011535,108.2011535,NoEagleSound,NoEagleSound,,598,,Davao del Sur,converted_18536_seg0037.wav,Davao del Sur\NoEagleSound,converted_18536.wav,NoEagleSound
+2522.571284,2527.571284,NoEagleSound,NoEagleSound,,1793,,Davao del Sur,converted_converted_135598_seg0520.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+353.1937045,358.1937045,NoEagleSound,NoEagleSound,,464,,Davao del Sur,converted_18531_seg0072.wav,Davao del Sur\NoEagleSound,converted_18531.wav,NoEagleSound
+43.69779199,48.69779199,NoEagleSound,NoEagleSound,,1362,,Davao del Sur,converted_217218_seg0004.wav,Davao del Sur\NoEagleSound,converted_217218.wav,NoEagleSound
+932.1427718,937.1427718,NoEagleSound,NoEagleSound,,1671,,Davao del Sur,converted_converted_135598_seg0398.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+25.69474573,30.69474573,NoEagleSound,NoEagleSound,,1356,,Davao del Sur,converted_217208_seg0003.wav,Davao del Sur\NoEagleSound,converted_217208.wav,NoEagleSound
+836.5931278,841.5931278,NoEagleSound,NoEagleSound,,315,,Davao del Sur,converted_179796_seg0203.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+146.578945,151.578945,NoEagleSound,NoEagleSound,,395,,Davao del Sur,converted_18524_seg0034.wav,Davao del Sur\NoEagleSound,converted_18524.wav,NoEagleSound
+49.5246805,54.5246805,NoEagleSound,NoEagleSound,,803,,Cotabato,converted_18601_seg0012.wav,Cotabato\NoEagleSound,converted_18601.wav,NoEagleSound
+14.98469644,19.98469644,NoEagleSound,NoEagleSound,,1331,,Cotabato,converted_18688_seg0001.wav,Cotabato\NoEagleSound,converted_18688.wav,NoEagleSound
+209.5781814,214.5781814,NoEagleSound,NoEagleSound,,887,,Cotabato,converted_18636_seg0044.wav,Cotabato\NoEagleSound,converted_18636.wav,NoEagleSound
+377.8212303,382.8212303,NoEagleSound,NoEagleSound,,662,,Davao del Sur,converted_18537_seg0049.wav,Davao del Sur\NoEagleSound,converted_18537.wav,NoEagleSound
+2331.672349,2336.672349,NoEagleSound,NoEagleSound,,1808,,Davao del Sur,converted_converted_135598_seg0535.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+167.3664019,172.3664019,NoEagleSound,NoEagleSound,,1170,,Cotabato,converted_18679_seg0044.wav,Cotabato\NoEagleSound,converted_18679.wav,NoEagleSound
+60.32012415,65.32012415,NoEagleSound,NoEagleSound,,972,,Cotabato,converted_18658_seg0011.wav,Cotabato\NoEagleSound,converted_18658.wav,NoEagleSound
+61.9533604,66.9533604,NoEagleSound,NoEagleSound,,445,,Davao del Sur,converted_18531_seg0053.wav,Davao del Sur\NoEagleSound,converted_18531.wav,NoEagleSound
+196.0768733,201.0768733,NoEagleSound,NoEagleSound,,1225,,Cotabato,converted_18680_seg0031.wav,Cotabato\NoEagleSound,converted_18680.wav,NoEagleSound
+166.6491747,171.6491747,NoEagleSound,NoEagleSound,,907,,Cotabato,converted_18636_seg0064.wav,Cotabato\NoEagleSound,converted_18636.wav,NoEagleSound
+165.7276799,170.7276799,NoEagleSound,NoEagleSound,,558,,Davao del Sur,converted_18535_seg0037.wav,Davao del Sur\NoEagleSound,converted_18535.wav,NoEagleSound
+16.06061652,21.06061652,NoEagleSound,NoEagleSound,,1374,,Cotabato,converted_289_seg0010.wav,Cotabato\NoEagleSound,converted_289.wav,NoEagleSound
+123.3961788,128.3961788,NoEagleSound,NoEagleSound,,520,,Davao del Sur,converted_18532_seg0078.wav,Davao del Sur\NoEagleSound,converted_18532.wav,NoEagleSound
+220.799281,225.799281,NoEagleSound,NoEagleSound,,645,,Davao del Sur,converted_18537_seg0032.wav,Davao del Sur\NoEagleSound,converted_18537.wav,NoEagleSound
+101.6412821,106.6412821,NoEagleSound,NoEagleSound,,1057,,Cotabato,converted_18663_seg0035.wav,Cotabato\NoEagleSound,converted_18663.wav,NoEagleSound
+275.7867595,280.7867595,NoEagleSound,NoEagleSound,,85,,Davao del Sur,converted_176495_seg0129.wav,Davao del Sur\NoEagleSound,converted_176495.wav,NoEagleSound
+296.9217368,301.9217368,NoEagleSound,NoEagleSound,,641,,Davao del Sur,converted_18537_seg0028.wav,Davao del Sur\NoEagleSound,converted_18537.wav,NoEagleSound
+1596.117835,1601.117835,NoEagleSound,NoEagleSound,,1683,,Davao del Sur,converted_converted_135598_seg0410.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+1382.247667,1387.247667,NoEagleSound,NoEagleSound,,1719,,Davao del Sur,converted_converted_135598_seg0446.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+2495.955558,2500.955558,NoEagleSound,NoEagleSound,,1688,,Davao del Sur,converted_converted_135598_seg0415.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+335.6725818,340.6725818,NoEagleSound,NoEagleSound,,206,,Davao del Sur,converted_179796_seg0094.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+172.6311397,177.6311397,NoEagleSound,NoEagleSound,,130,,Davao del Sur,converted_179795_seg0047.wav,Davao del Sur\NoEagleSound,converted_179795.wav,NoEagleSound
+182.6646298,187.6646298,NoEagleSound,NoEagleSound,,571,,Davao del Sur,converted_18535_seg0050.wav,Davao del Sur\NoEagleSound,converted_18535.wav,NoEagleSound
+660.5397611,665.5397611,NoEagleSound,NoEagleSound,,313,,Davao del Sur,converted_179796_seg0201.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+1344.439268,1349.439268,NoEagleSound,NoEagleSound,,220,,Davao del Sur,converted_179796_seg0108.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+24.49790165,29.49790165,NoEagleSound,NoEagleSound,,1353,,Bukidnon,converted_204002151_seg0023.wav,Bukidnon\NoEagleSound,converted_204002151.wav,NoEagleSound
+66.51529991,71.51529991,NoEagleSound,NoEagleSound,,822,,Cotabato,converted_18601_seg0031.wav,Cotabato\NoEagleSound,converted_18601.wav,NoEagleSound
+146.1402146,151.1402146,NoEagleSound,NoEagleSound,,147,,Davao del Sur,converted_179795_seg0064.wav,Davao del Sur\NoEagleSound,converted_179795.wav,NoEagleSound
+179.5317687,184.5317687,NoEagleSound,NoEagleSound,,919,,Cotabato,converted_18636_seg0076.wav,Cotabato\NoEagleSound,converted_18636.wav,NoEagleSound
+43.93203338,48.93203338,NoEagleSound,NoEagleSound,,526,,Davao del Sur,converted_18534_seg0005.wav,Davao del Sur\NoEagleSound,converted_18534.wav,NoEagleSound
+309.0594408,314.0594408,NoEagleSound,NoEagleSound,,773,,Cotabato,converted_18545_seg0098.wav,Cotabato\NoEagleSound,converted_18545.wav,NoEagleSound
+225.3657706,230.3657706,NoEagleSound,NoEagleSound,,1303,,Cotabato,converted_18682_seg0048.wav,Cotabato\NoEagleSound,converted_18682.wav,NoEagleSound
+317.3339355,322.3339355,NoEagleSound,NoEagleSound,,917,,Cotabato,converted_18636_seg0074.wav,Cotabato\NoEagleSound,converted_18636.wav,NoEagleSound
+74.943083,79.943083,NoEagleSound,NoEagleSound,,659,,Davao del Sur,converted_18537_seg0046.wav,Davao del Sur\NoEagleSound,converted_18537.wav,NoEagleSound
+178.003357,183.003357,NoEagleSound,NoEagleSound,,452,,Davao del Sur,converted_18531_seg0060.wav,Davao del Sur\NoEagleSound,converted_18531.wav,NoEagleSound
+82.44288945,87.44288945,NoEagleSound,NoEagleSound,,525,,Davao del Sur,converted_18534_seg0004.wav,Davao del Sur\NoEagleSound,converted_18534.wav,NoEagleSound
+66.70012961,71.70012961,NoEagleSound,NoEagleSound,,1182,,Cotabato,converted_18679_seg0056.wav,Cotabato\NoEagleSound,converted_18679.wav,NoEagleSound
+212.4763733,217.4763733,NoEagleSound,NoEagleSound,,789,,Cotabato,converted_18545_seg0114.wav,Cotabato\NoEagleSound,converted_18545.wav,NoEagleSound
+90.35581481,95.35581481,NoEagleSound,NoEagleSound,,1048,,Cotabato,converted_18663_seg0026.wav,Cotabato\NoEagleSound,converted_18663.wav,NoEagleSound
+242.7075502,247.7075502,NoEagleSound,NoEagleSound,,1777,,Davao del Sur,converted_converted_135598_seg0504.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+126.8072499,131.8072499,NoEagleSound,NoEagleSound,,850,,Cotabato,converted_18618_seg0004.wav,Cotabato\NoEagleSound,converted_18618.wav,NoEagleSound
+196.4608928,201.4608928,NoEagleSound,NoEagleSound,,454,,Davao del Sur,converted_18531_seg0062.wav,Davao del Sur\NoEagleSound,converted_18531.wav,NoEagleSound
+57.51711999,62.51711999,NoEagleSound,NoEagleSound,,700,,Cotabato,converted_18539_seg0013.wav,Cotabato\NoEagleSound,converted_18539.wav,NoEagleSound
+412.9004568,417.9004568,NoEagleSound,NoEagleSound,,135,,Davao del Sur,converted_179795_seg0052.wav,Davao del Sur\NoEagleSound,converted_179795.wav,NoEagleSound
+185.2225337,190.2225337,NoEagleSound,NoEagleSound,,896,,Cotabato,converted_18636_seg0053.wav,Cotabato\NoEagleSound,converted_18636.wav,NoEagleSound
+1334.603976,1339.603976,NoEagleSound,NoEagleSound,,192,,Davao del Sur,converted_179796_seg0080.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+226.6440779,231.6440779,NoEagleSound,NoEagleSound,,1108,,Cotabato,converted_18677_seg0081.wav,Cotabato\NoEagleSound,converted_18677.wav,NoEagleSound
+2252.821171,2257.821171,NoEagleSound,NoEagleSound,,1631,,Davao del Sur,converted_converted_135598_seg0358.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+294.5325781,299.5325781,NoEagleSound,NoEagleSound,,1190,,Cotabato,converted_18679_seg0064.wav,Cotabato\NoEagleSound,converted_18679.wav,NoEagleSound
+141.5197238,146.5197238,NoEagleSound,NoEagleSound,,410,,Davao del Sur,converted_18524_seg0049.wav,Davao del Sur\NoEagleSound,converted_18524.wav,NoEagleSound
+120.3045219,125.3045219,NoEagleSound,NoEagleSound,,1251,,Cotabato,converted_18680_seg0057.wav,Cotabato\NoEagleSound,converted_18680.wav,NoEagleSound
+384.0920319,389.0920319,NoEagleSound,NoEagleSound,,640,,Davao del Sur,converted_18537_seg0027.wav,Davao del Sur\NoEagleSound,converted_18537.wav,NoEagleSound
+270.711717,275.711717,NoEagleSound,NoEagleSound,,518,,Davao del Sur,converted_18532_seg0076.wav,Davao del Sur\NoEagleSound,converted_18532.wav,NoEagleSound
+202.1779038,207.1779038,NoEagleSound,NoEagleSound,,282,,Davao del Sur,converted_179796_seg0170.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+195.0618779,200.0618779,NoEagleSound,NoEagleSound,,813,,Cotabato,converted_18601_seg0022.wav,Cotabato\NoEagleSound,converted_18601.wav,NoEagleSound
+307.9689584,312.9689584,NoEagleSound,NoEagleSound,,1264,,Cotabato,converted_18680_seg0070.wav,Cotabato\NoEagleSound,converted_18680.wav,NoEagleSound
+1485.675766,1490.675766,NoEagleSound,NoEagleSound,,210,,Davao del Sur,converted_179796_seg0098.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+162.7399727,167.7399727,NoEagleSound,NoEagleSound,,612,,Davao del Sur,converted_18536_seg0051.wav,Davao del Sur\NoEagleSound,converted_18536.wav,NoEagleSound
+57.38240751,62.38240751,NoEagleSound,NoEagleSound,,888,,Cotabato,converted_18636_seg0045.wav,Cotabato\NoEagleSound,converted_18636.wav,NoEagleSound
+587.1327916,592.1327916,NoEagleSound,NoEagleSound,,798,,Cotabato,converted_18545_seg0123.wav,Cotabato\NoEagleSound,converted_18545.wav,NoEagleSound
+51.54352146,56.54352146,NoEagleSound,NoEagleSound,,708,,Cotabato,converted_18539_seg0021.wav,Cotabato\NoEagleSound,converted_18539.wav,NoEagleSound
+35.94794857,40.94794857,NoEagleSound,NoEagleSound,,1133,,Cotabato,converted_18678_seg0017.wav,Cotabato\NoEagleSound,converted_18678.wav,NoEagleSound
+1618.540905,1623.540905,NoEagleSound,NoEagleSound,,1636,,Davao del Sur,converted_converted_135598_seg0363.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+266.4325146,271.4325146,NoEagleSound,NoEagleSound,,391,,Davao del Sur,converted_18524_seg0030.wav,Davao del Sur\NoEagleSound,converted_18524.wav,NoEagleSound
+37.60246487,42.60246487,NoEagleSound,NoEagleSound,,760,,Cotabato,converted_18545_seg0085.wav,Cotabato\NoEagleSound,converted_18545.wav,NoEagleSound
+327.8861388,332.8861388,NoEagleSound,NoEagleSound,,819,,Cotabato,converted_18601_seg0028.wav,Cotabato\NoEagleSound,converted_18601.wav,NoEagleSound
+173.7082036,178.7082036,NoEagleSound,NoEagleSound,,1116,,Cotabato,converted_18677_seg0089.wav,Cotabato\NoEagleSound,converted_18677.wav,NoEagleSound
+2029.83282,2034.83282,NoEagleSound,NoEagleSound,,1711,,Davao del Sur,converted_converted_135598_seg0438.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+1124.080263,1129.080263,NoEagleSound,NoEagleSound,,237,,Davao del Sur,converted_179796_seg0125.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+6.358726774,11.35872677,NoEagleSound,NoEagleSound,,886,,Cotabato,converted_18636_seg0043.wav,Cotabato\NoEagleSound,converted_18636.wav,NoEagleSound
+188.5460486,193.5460486,NoEagleSound,NoEagleSound,,553,,Davao del Sur,converted_18535_seg0032.wav,Davao del Sur\NoEagleSound,converted_18535.wav,NoEagleSound
+83.87449331,88.87449331,NoEagleSound,NoEagleSound,,1376,,Cotabato,converted_289_seg0012.wav,Cotabato\NoEagleSound,converted_289.wav,NoEagleSound
+89.0178478,94.0178478,NoEagleSound,NoEagleSound,,967,,Cotabato,converted_18658_seg0006.wav,Cotabato\NoEagleSound,converted_18658.wav,NoEagleSound
+23.54826764,28.54826764,NoEagleSound,NoEagleSound,,1017,,Cotabato,converted_18662_seg0017.wav,Cotabato\NoEagleSound,converted_18662.wav,NoEagleSound
+122.5182333,127.5182333,NoEagleSound,NoEagleSound,,1021,,Cotabato,converted_18662_seg0021.wav,Cotabato\NoEagleSound,converted_18662.wav,NoEagleSound
+8.091826598,13.0918266,NoEagleSound,NoEagleSound,,94,,Davao del Sur,converted_176497_seg0016.wav,Davao del Sur\NoEagleSound,converted_176497.wav,NoEagleSound
+233.6165528,238.6165528,NoEagleSound,NoEagleSound,,265,,Davao del Sur,converted_179796_seg0153.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+15.62240911,20.62240911,NoEagleSound,NoEagleSound,,362,,Davao del Sur,converted_183492_seg0018.wav,Davao del Sur\NoEagleSound,converted_183492.wav,NoEagleSound
+51.4794939,56.4794939,NoEagleSound,NoEagleSound,,453,,Davao del Sur,converted_18531_seg0061.wav,Davao del Sur\NoEagleSound,converted_18531.wav,NoEagleSound
+17.98480521,22.98480521,NoEagleSound,NoEagleSound,,1192,,Cotabato,converted_18679_seg0066.wav,Cotabato\NoEagleSound,converted_18679.wav,NoEagleSound
+72.0660765,77.0660765,NoEagleSound,NoEagleSound,,1019,,Cotabato,converted_18662_seg0019.wav,Cotabato\NoEagleSound,converted_18662.wav,NoEagleSound
+62.95640238,67.95640238,NoEagleSound,NoEagleSound,,510,,Davao del Sur,converted_18532_seg0068.wav,Davao del Sur\NoEagleSound,converted_18532.wav,NoEagleSound
+148.2387148,153.2387148,NoEagleSound,NoEagleSound,,1324,,Cotabato,converted_18683_seg0019.wav,Cotabato\NoEagleSound,converted_18683.wav,NoEagleSound
+320.233769,325.233769,NoEagleSound,NoEagleSound,,1172,,Cotabato,converted_18679_seg0046.wav,Cotabato\NoEagleSound,converted_18679.wav,NoEagleSound
+178.9214283,183.9214283,NoEagleSound,NoEagleSound,,668,,Davao del Sur,converted_18537_seg0055.wav,Davao del Sur\NoEagleSound,converted_18537.wav,NoEagleSound
+5.836432522,10.83643252,NoEagleSound,NoEagleSound,,617,,Davao del Sur,converted_18536_seg0056.wav,Davao del Sur\NoEagleSound,converted_18536.wav,NoEagleSound
+29.66734832,34.66734832,NoEagleSound,NoEagleSound,,1025,,Cotabato,converted_18662_seg0025.wav,Cotabato\NoEagleSound,converted_18662.wav,NoEagleSound
+87.72908363,92.72908363,NoEagleSound,NoEagleSound,,854,,Cotabato,converted_18618_seg0008.wav,Cotabato\NoEagleSound,converted_18618.wav,NoEagleSound
+387.3896074,392.3896074,NoEagleSound,NoEagleSound,,140,,Davao del Sur,converted_179795_seg0057.wav,Davao del Sur\NoEagleSound,converted_179795.wav,NoEagleSound
+441.1808349,446.1808349,NoEagleSound,NoEagleSound,,756,,Cotabato,converted_18545_seg0081.wav,Cotabato\NoEagleSound,converted_18545.wav,NoEagleSound
+1496.590063,1501.590063,NoEagleSound,NoEagleSound,,1692,,Davao del Sur,converted_converted_135598_seg0419.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+36.74830294,41.74830294,NoEagleSound,NoEagleSound,,602,,Davao del Sur,converted_18536_seg0041.wav,Davao del Sur\NoEagleSound,converted_18536.wav,NoEagleSound
+86.51320758,91.51320758,NoEagleSound,NoEagleSound,,372,,Davao Oriental,converted_18518_seg0018.wav,Davao Oriental\NoEagleSound,converted_18518.wav,NoEagleSound
+114.8317268,119.8317268,NoEagleSound,NoEagleSound,,1226,,Cotabato,converted_18680_seg0032.wav,Cotabato\NoEagleSound,converted_18680.wav,NoEagleSound
+68.70814537,73.70814537,NoEagleSound,NoEagleSound,,458,,Davao del Sur,converted_18531_seg0066.wav,Davao del Sur\NoEagleSound,converted_18531.wav,NoEagleSound
+58.50587312,63.50587312,NoEagleSound,NoEagleSound,,1364,,Davao del Sur,converted_217218_seg0006.wav,Davao del Sur\NoEagleSound,converted_217218.wav,NoEagleSound
+1232.79219,1237.79219,NoEagleSound,NoEagleSound,,321,,Davao del Sur,converted_179796_seg0209.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+94.50676564,99.50676564,NoEagleSound,NoEagleSound,,346,,Davao del Sur,converted_182399_seg0024.wav,Davao del Sur\NoEagleSound,converted_182399.wav,NoEagleSound
+302.4529286,307.4529286,NoEagleSound,NoEagleSound,,652,,Davao del Sur,converted_18537_seg0039.wav,Davao del Sur\NoEagleSound,converted_18537.wav,NoEagleSound
+120.1725278,125.1725278,NoEagleSound,NoEagleSound,,892,,Cotabato,converted_18636_seg0049.wav,Cotabato\NoEagleSound,converted_18636.wav,NoEagleSound
+204.3813268,209.3813268,NoEagleSound,NoEagleSound,,451,,Davao del Sur,converted_18531_seg0059.wav,Davao del Sur\NoEagleSound,converted_18531.wav,NoEagleSound
+107.3420675,112.3420675,NoEagleSound,NoEagleSound,,701,,Cotabato,converted_18539_seg0014.wav,Cotabato\NoEagleSound,converted_18539.wav,NoEagleSound
+51.84011095,56.84011095,NoEagleSound,NoEagleSound,,961,,Cotabato,converted_18657_seg0034.wav,Cotabato\NoEagleSound,converted_18657.wav,NoEagleSound
+635.8383937,640.8383937,NoEagleSound,NoEagleSound,,1757,,Davao del Sur,converted_converted_135598_seg0484.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+82.90360169,87.90360169,NoEagleSound,NoEagleSound,,363,,Davao del Sur,converted_183492_seg0019.wav,Davao del Sur\NoEagleSound,converted_183492.wav,NoEagleSound
+1296.572179,1301.572179,NoEagleSound,NoEagleSound,,1746,,Davao del Sur,converted_converted_135598_seg0473.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+63.21311788,68.21311788,NoEagleSound,NoEagleSound,,855,,Cotabato,converted_18618_seg0009.wav,Cotabato\NoEagleSound,converted_18618.wav,NoEagleSound
+198.8673686,203.8673686,NoEagleSound,NoEagleSound,,146,,Davao del Sur,converted_179795_seg0063.wav,Davao del Sur\NoEagleSound,converted_179795.wav,NoEagleSound
+591.0722351,596.0722351,NoEagleSound,NoEagleSound,,194,,Davao del Sur,converted_179796_seg0082.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+85.49877169,90.49877169,NoEagleSound,NoEagleSound,,98,,Davao del Sur,converted_176497_seg0020.wav,Davao del Sur\NoEagleSound,converted_176497.wav,NoEagleSound
+272.7664206,277.7664206,NoEagleSound,NoEagleSound,,1111,,Cotabato,converted_18677_seg0084.wav,Cotabato\NoEagleSound,converted_18677.wav,NoEagleSound
+21.83947523,26.83947523,NoEagleSound,NoEagleSound,,377,,Davao Oriental,converted_18518_seg0023.wav,Davao Oriental\NoEagleSound,converted_18518.wav,NoEagleSound
+446.8527578,451.8527578,NoEagleSound,NoEagleSound,,304,,Davao del Sur,converted_179796_seg0192.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+333.0941553,338.0941553,NoEagleSound,NoEagleSound,,1185,,Cotabato,converted_18679_seg0059.wav,Cotabato\NoEagleSound,converted_18679.wav,NoEagleSound
+247.4631734,252.4631734,NoEagleSound,NoEagleSound,,1046,,Cotabato,converted_18663_seg0024.wav,Cotabato\NoEagleSound,converted_18663.wav,NoEagleSound
+72.49582212,77.49582212,NoEagleSound,NoEagleSound,,1175,,Cotabato,converted_18679_seg0049.wav,Cotabato\NoEagleSound,converted_18679.wav,NoEagleSound
+165.1618233,170.1618233,NoEagleSound,NoEagleSound,,152,,Davao del Sur,converted_179795_seg0069.wav,Davao del Sur\NoEagleSound,converted_179795.wav,NoEagleSound
+236.969266,241.969266,NoEagleSound,NoEagleSound,,159,,Davao del Sur,converted_179795_seg0076.wav,Davao del Sur\NoEagleSound,converted_179795.wav,NoEagleSound
+888.3402642,893.3402642,NoEagleSound,NoEagleSound,,1772,,Davao del Sur,converted_converted_135598_seg0499.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+120.0267938,125.0267938,NoEagleSound,NoEagleSound,,157,,Davao del Sur,converted_179795_seg0074.wav,Davao del Sur\NoEagleSound,converted_179795.wav,NoEagleSound
+213.4584558,218.4584558,NoEagleSound,NoEagleSound,,1254,,Cotabato,converted_18680_seg0060.wav,Cotabato\NoEagleSound,converted_18680.wav,NoEagleSound
+382.7928609,387.7928609,NoEagleSound,NoEagleSound,,792,,Cotabato,converted_18545_seg0117.wav,Cotabato\NoEagleSound,converted_18545.wav,NoEagleSound
+50.83113092,55.83113092,NoEagleSound,NoEagleSound,,1031,,Cotabato,converted_18663_seg0009.wav,Cotabato\NoEagleSound,converted_18663.wav,NoEagleSound
+252.4675988,257.4675988,NoEagleSound,NoEagleSound,,1630,,Davao del Sur,converted_converted_135598_seg0357.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+231.4541827,236.4541827,NoEagleSound,NoEagleSound,,650,,Davao del Sur,converted_18537_seg0037.wav,Davao del Sur\NoEagleSound,converted_18537.wav,NoEagleSound
+89.2879267,94.2879267,NoEagleSound,NoEagleSound,,644,,Davao del Sur,converted_18537_seg0031.wav,Davao del Sur\NoEagleSound,converted_18537.wav,NoEagleSound
+307.3490354,312.3490354,NoEagleSound,NoEagleSound,,805,,Cotabato,converted_18601_seg0014.wav,Cotabato\NoEagleSound,converted_18601.wav,NoEagleSound
+29.34630863,34.34630863,NoEagleSound,NoEagleSound,,524,,Davao del Sur,converted_18534_seg0003.wav,Davao del Sur\NoEagleSound,converted_18534.wav,NoEagleSound
+2237.821621,2242.821621,NoEagleSound,NoEagleSound,,1659,,Davao del Sur,converted_converted_135598_seg0386.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+172.0313732,177.0313732,NoEagleSound,NoEagleSound,,65,,Davao del Sur,converted_176495_seg0109.wav,Davao del Sur\NoEagleSound,converted_176495.wav,NoEagleSound
+187.3353405,192.3353405,NoEagleSound,NoEagleSound,,456,,Davao del Sur,converted_18531_seg0064.wav,Davao del Sur\NoEagleSound,converted_18531.wav,NoEagleSound
+182.2935115,187.2935115,NoEagleSound,NoEagleSound,,818,,Cotabato,converted_18601_seg0027.wav,Cotabato\NoEagleSound,converted_18601.wav,NoEagleSound
+1292.684608,1297.684608,NoEagleSound,NoEagleSound,,204,,Davao del Sur,converted_179796_seg0092.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+1453.306386,1458.306386,NoEagleSound,NoEagleSound,,197,,Davao del Sur,converted_179796_seg0085.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+214.7946236,219.7946236,NoEagleSound,NoEagleSound,,895,,Cotabato,converted_18636_seg0052.wav,Cotabato\NoEagleSound,converted_18636.wav,NoEagleSound
+5.718208189,10.71820819,NoEagleSound,NoEagleSound,,1325,,Cotabato,converted_18683_seg0020.wav,Cotabato\NoEagleSound,converted_18683.wav,NoEagleSound
+269.7644646,274.7644646,NoEagleSound,NoEagleSound,,460,,Davao del Sur,converted_18531_seg0068.wav,Davao del Sur\NoEagleSound,converted_18531.wav,NoEagleSound
+513.1693997,518.1693997,NoEagleSound,NoEagleSound,,779,,Cotabato,converted_18545_seg0104.wav,Cotabato\NoEagleSound,converted_18545.wav,NoEagleSound
+2067.155459,2072.155459,NoEagleSound,NoEagleSound,,1767,,Davao del Sur,converted_converted_135598_seg0494.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+431.3131819,436.3131819,NoEagleSound,NoEagleSound,,137,,Davao del Sur,converted_179795_seg0054.wav,Davao del Sur\NoEagleSound,converted_179795.wav,NoEagleSound
+72.08902701,77.08902701,NoEagleSound,NoEagleSound,,411,,Davao del Sur,converted_18524_seg0050.wav,Davao del Sur\NoEagleSound,converted_18524.wav,NoEagleSound
+340.2324076,345.2324076,NoEagleSound,NoEagleSound,,1112,,Cotabato,converted_18677_seg0085.wav,Cotabato\NoEagleSound,converted_18677.wav,NoEagleSound
+66.22248942,71.22248942,NoEagleSound,NoEagleSound,,396,,Davao del Sur,converted_18524_seg0035.wav,Davao del Sur\NoEagleSound,converted_18524.wav,NoEagleSound
+213.757813,218.757813,NoEagleSound,NoEagleSound,,830,,Cotabato,converted_18601_seg0039.wav,Cotabato\NoEagleSound,converted_18601.wav,NoEagleSound
+30.33709349,35.33709349,NoEagleSound,NoEagleSound,,349,,Davao del Sur,converted_182399_seg0027.wav,Davao del Sur\NoEagleSound,converted_182399.wav,NoEagleSound
+35.99811032,40.99811032,NoEagleSound,NoEagleSound,,646,,Davao del Sur,converted_18537_seg0033.wav,Davao del Sur\NoEagleSound,converted_18537.wav,NoEagleSound
+737.9152456,742.9152456,NoEagleSound,NoEagleSound,,245,,Davao del Sur,converted_179796_seg0133.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+1504.273123,1509.273123,NoEagleSound,NoEagleSound,,1739,,Davao del Sur,converted_converted_135598_seg0466.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+16.9754912,21.9754912,NoEagleSound,NoEagleSound,,962,,Cotabato,converted_18657_seg0035.wav,Cotabato\NoEagleSound,converted_18657.wav,NoEagleSound
+73.9526184,78.9526184,NoEagleSound,NoEagleSound,,913,,Cotabato,converted_18636_seg0070.wav,Cotabato\NoEagleSound,converted_18636.wav,NoEagleSound
+317.7895777,322.7895777,NoEagleSound,NoEagleSound,,218,,Davao del Sur,converted_179796_seg0106.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+168.0361003,173.0361003,NoEagleSound,NoEagleSound,,1028,,Cotabato,converted_18663_seg0006.wav,Cotabato\NoEagleSound,converted_18663.wav,NoEagleSound
+282.9753814,287.9753814,NoEagleSound,NoEagleSound,,780,,Cotabato,converted_18545_seg0105.wav,Cotabato\NoEagleSound,converted_18545.wav,NoEagleSound
+15.94157188,20.94157188,NoEagleSound,NoEagleSound,,368,,Davao Oriental,converted_18518_seg0014.wav,Davao Oriental\NoEagleSound,converted_18518.wav,NoEagleSound
+793.8591171,798.8591171,NoEagleSound,NoEagleSound,,1781,,Davao del Sur,converted_converted_135598_seg0508.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+21.4876401,26.4876401,NoEagleSound,NoEagleSound,,415,,Davao del Sur,converted_18524_seg0054.wav,Davao del Sur\NoEagleSound,converted_18524.wav,NoEagleSound
+339.330978,344.330978,NoEagleSound,NoEagleSound,,815,,Cotabato,converted_18601_seg0024.wav,Cotabato\NoEagleSound,converted_18601.wav,NoEagleSound
+196.0428488,201.0428488,NoEagleSound,NoEagleSound,,69,,Davao del Sur,converted_176495_seg0113.wav,Davao del Sur\NoEagleSound,converted_176495.wav,NoEagleSound
+24.73767712,29.73767712,NoEagleSound,NoEagleSound,,674,,Davao del Sur,converted_18537_seg0061.wav,Davao del Sur\NoEagleSound,converted_18537.wav,NoEagleSound
+1266.15133,1271.15133,NoEagleSound,NoEagleSound,,296,,Davao del Sur,converted_179796_seg0184.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+87.77127972,92.77127972,NoEagleSound,NoEagleSound,,1120,,Cotabato,converted_18677_seg0093.wav,Cotabato\NoEagleSound,converted_18677.wav,NoEagleSound
+177.6337462,182.6337462,NoEagleSound,NoEagleSound,,561,,Davao del Sur,converted_18535_seg0040.wav,Davao del Sur\NoEagleSound,converted_18535.wav,NoEagleSound
+31.79111548,36.79111548,NoEagleSound,NoEagleSound,,156,,Davao del Sur,converted_179795_seg0073.wav,Davao del Sur\NoEagleSound,converted_179795.wav,NoEagleSound
+25.84030917,30.84030917,NoEagleSound,NoEagleSound,,597,,Davao del Sur,converted_18536_seg0036.wav,Davao del Sur\NoEagleSound,converted_18536.wav,NoEagleSound
+176.3588107,181.3588107,NoEagleSound,NoEagleSound,,794,,Cotabato,converted_18545_seg0119.wav,Cotabato\NoEagleSound,converted_18545.wav,NoEagleSound
+93.22955336,98.22955336,NoEagleSound,NoEagleSound,,861,,Cotabato,converted_18618_seg0015.wav,Cotabato\NoEagleSound,converted_18618.wav,NoEagleSound
+1277.725334,1282.725334,NoEagleSound,NoEagleSound,,1794,,Davao del Sur,converted_converted_135598_seg0521.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+322.8079965,327.8079965,NoEagleSound,NoEagleSound,,1701,,Davao del Sur,converted_converted_135598_seg0428.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+104.1278445,109.1278445,NoEagleSound,NoEagleSound,,350,,Davao del Sur,converted_182399_seg0028.wav,Davao del Sur\NoEagleSound,converted_182399.wav,NoEagleSound
+98.03243954,103.0324395,NoEagleSound,NoEagleSound,,630,,Davao del Sur,converted_18537_seg0017.wav,Davao del Sur\NoEagleSound,converted_18537.wav,NoEagleSound
+529.421928,534.421928,NoEagleSound,NoEagleSound,,311,,Davao del Sur,converted_179796_seg0199.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+118.2820657,123.2820657,NoEagleSound,NoEagleSound,,1315,,Cotabato,converted_18683_seg0010.wav,Cotabato\NoEagleSound,converted_18683.wav,NoEagleSound
+65.5320184,70.5320184,NoEagleSound,NoEagleSound,,1053,,Cotabato,converted_18663_seg0031.wav,Cotabato\NoEagleSound,converted_18663.wav,NoEagleSound
+208.6970823,213.6970823,NoEagleSound,NoEagleSound,,845,,Cotabato,converted_18601_seg0054.wav,Cotabato\NoEagleSound,converted_18601.wav,NoEagleSound
+922.7691755,927.7691755,NoEagleSound,NoEagleSound,,327,,Davao del Sur,converted_179796_seg0215.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+2463.565669,2468.565669,NoEagleSound,NoEagleSound,,1727,,Davao del Sur,converted_converted_135598_seg0454.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+12.53956882,17.53956882,NoEagleSound,NoEagleSound,,911,,Cotabato,converted_18636_seg0068.wav,Cotabato\NoEagleSound,converted_18636.wav,NoEagleSound
+366.639413,371.639413,NoEagleSound,NoEagleSound,,752,,Cotabato,converted_18545_seg0077.wav,Cotabato\NoEagleSound,converted_18545.wav,NoEagleSound
+1826.22121,1831.22121,NoEagleSound,NoEagleSound,,1656,,Davao del Sur,converted_converted_135598_seg0383.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+1079.315327,1084.315327,NoEagleSound,NoEagleSound,,277,,Davao del Sur,converted_179796_seg0165.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+2018.630413,2023.630413,NoEagleSound,NoEagleSound,,1775,,Davao del Sur,converted_converted_135598_seg0502.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+75.0614916,80.0614916,NoEagleSound,NoEagleSound,,808,,Cotabato,converted_18601_seg0017.wav,Cotabato\NoEagleSound,converted_18601.wav,NoEagleSound
+1207.15683,1212.15683,NoEagleSound,NoEagleSound,,235,,Davao del Sur,converted_179796_seg0123.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+26.79849211,31.79849211,NoEagleSound,NoEagleSound,,860,,Cotabato,converted_18618_seg0014.wav,Cotabato\NoEagleSound,converted_18618.wav,NoEagleSound
+127.5700141,132.5700141,NoEagleSound,NoEagleSound,,666,,Davao del Sur,converted_18537_seg0053.wav,Davao del Sur\NoEagleSound,converted_18537.wav,NoEagleSound
+236.5938945,241.5938945,NoEagleSound,NoEagleSound,,1234,,Cotabato,converted_18680_seg0040.wav,Cotabato\NoEagleSound,converted_18680.wav,NoEagleSound
+1447.781843,1452.781843,NoEagleSound,NoEagleSound,,1809,,Davao del Sur,converted_converted_135598_seg0536.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+177.5022372,182.5022372,NoEagleSound,NoEagleSound,,67,,Davao del Sur,converted_176495_seg0111.wav,Davao del Sur\NoEagleSound,converted_176495.wav,NoEagleSound
+189.5474526,194.5474526,NoEagleSound,NoEagleSound,,653,,Davao del Sur,converted_18537_seg0040.wav,Davao del Sur\NoEagleSound,converted_18537.wav,NoEagleSound
+1065.118724,1070.118724,NoEagleSound,NoEagleSound,,255,,Davao del Sur,converted_179796_seg0143.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+56.15256421,61.15256421,NoEagleSound,NoEagleSound,,1068,,Cotabato,converted_18674_seg0020.wav,Cotabato\NoEagleSound,converted_18674.wav,NoEagleSound
+10.61956147,15.61956147,NoEagleSound,NoEagleSound,,531,,Davao del Sur,converted_18534_seg0010.wav,Davao del Sur\NoEagleSound,converted_18534.wav,NoEagleSound
+94.28590108,99.28590108,NoEagleSound,NoEagleSound,,956,,Cotabato,converted_18657_seg0029.wav,Cotabato\NoEagleSound,converted_18657.wav,NoEagleSound
+647.2838306,652.2838306,NoEagleSound,NoEagleSound,,323,,Davao del Sur,converted_179796_seg0211.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+78.36772382,83.36772382,NoEagleSound,NoEagleSound,,503,,Davao del Sur,converted_18532_seg0061.wav,Davao del Sur\NoEagleSound,converted_18532.wav,NoEagleSound
+296.2251814,301.2251814,NoEagleSound,NoEagleSound,,884,,Cotabato,converted_18636_seg0041.wav,Cotabato\NoEagleSound,converted_18636.wav,NoEagleSound
+202.6114302,207.6114302,NoEagleSound,NoEagleSound,,812,,Cotabato,converted_18601_seg0021.wav,Cotabato\NoEagleSound,converted_18601.wav,NoEagleSound
+2054.286648,2059.286648,NoEagleSound,NoEagleSound,,1637,,Davao del Sur,converted_converted_135598_seg0364.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+36.16095443,41.16095443,NoEagleSound,NoEagleSound,,824,,Cotabato,converted_18601_seg0033.wav,Cotabato\NoEagleSound,converted_18601.wav,NoEagleSound
+219.5802489,224.5802489,NoEagleSound,NoEagleSound,,1035,,Cotabato,converted_18663_seg0013.wav,Cotabato\NoEagleSound,converted_18663.wav,NoEagleSound
+366.300262,371.300262,NoEagleSound,NoEagleSound,,1154,,Cotabato,converted_18679_seg0028.wav,Cotabato\NoEagleSound,converted_18679.wav,NoEagleSound
+91.3924309,96.3924309,NoEagleSound,NoEagleSound,,1274,,Cotabato,converted_18681_seg0013.wav,Cotabato\NoEagleSound,converted_18681.wav,NoEagleSound
+494.9743044,499.9743044,NoEagleSound,NoEagleSound,,1698,,Davao del Sur,converted_converted_135598_seg0425.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+156.4403859,161.4403859,NoEagleSound,NoEagleSound,,1049,,Cotabato,converted_18663_seg0027.wav,Cotabato\NoEagleSound,converted_18663.wav,NoEagleSound
+347.3887294,352.3887294,NoEagleSound,NoEagleSound,,1774,,Davao del Sur,converted_converted_135598_seg0501.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+35.08861262,40.08861262,NoEagleSound,NoEagleSound,,1056,,Cotabato,converted_18663_seg0034.wav,Cotabato\NoEagleSound,converted_18663.wav,NoEagleSound
+150.9684063,155.9684063,NoEagleSound,NoEagleSound,,827,,Cotabato,converted_18601_seg0036.wav,Cotabato\NoEagleSound,converted_18601.wav,NoEagleSound
+2271.785689,2276.785689,NoEagleSound,NoEagleSound,,1640,,Davao del Sur,converted_converted_135598_seg0367.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+1288.175713,1293.175713,NoEagleSound,NoEagleSound,,1759,,Davao del Sur,converted_converted_135598_seg0486.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+133.4314598,138.4314598,NoEagleSound,NoEagleSound,,657,,Davao del Sur,converted_18537_seg0044.wav,Davao del Sur\NoEagleSound,converted_18537.wav,NoEagleSound
+682.3520113,687.3520113,NoEagleSound,NoEagleSound,,1760,,Davao del Sur,converted_converted_135598_seg0487.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+59.51938852,64.51938852,NoEagleSound,NoEagleSound,,1276,,Cotabato,converted_18681_seg0015.wav,Cotabato\NoEagleSound,converted_18681.wav,NoEagleSound
+150.6964413,155.6964413,NoEagleSound,NoEagleSound,,1227,,Cotabato,converted_18680_seg0033.wav,Cotabato\NoEagleSound,converted_18680.wav,NoEagleSound
+612.7902161,617.7902161,NoEagleSound,NoEagleSound,,263,,Davao del Sur,converted_179796_seg0151.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+1559.287011,1564.287011,NoEagleSound,NoEagleSound,,328,,Davao del Sur,converted_179796_seg0216.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+46.03653703,51.03653703,NoEagleSound,NoEagleSound,,1193,,Cotabato,converted_18679_seg0067.wav,Cotabato\NoEagleSound,converted_18679.wav,NoEagleSound
+101.9131582,106.9131582,NoEagleSound,NoEagleSound,,1329,,Cotabato,converted_18683_seg0024.wav,Cotabato\NoEagleSound,converted_18683.wav,NoEagleSound
+1032.726546,1037.726546,NoEagleSound,NoEagleSound,,312,,Davao del Sur,converted_179796_seg0200.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+1962.408789,1967.408789,NoEagleSound,NoEagleSound,,1623,,Davao del Sur,converted_converted_135598_seg0350.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+97.83109672,102.8310967,NoEagleSound,NoEagleSound,,154,,Davao del Sur,converted_179795_seg0071.wav,Davao del Sur\NoEagleSound,converted_179795.wav,NoEagleSound
+653.7818252,658.7818252,NoEagleSound,NoEagleSound,,248,,Davao del Sur,converted_179796_seg0136.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+20.04318751,25.04318751,NoEagleSound,NoEagleSound,,448,,Davao del Sur,converted_18531_seg0056.wav,Davao del Sur\NoEagleSound,converted_18531.wav,NoEagleSound
+23.33456625,28.33456625,NoEagleSound,NoEagleSound,,1168,,Cotabato,converted_18679_seg0042.wav,Cotabato\NoEagleSound,converted_18679.wav,NoEagleSound
+2217.608861,2222.608861,NoEagleSound,NoEagleSound,,1703,,Davao del Sur,converted_converted_135598_seg0430.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+27.66320378,32.66320378,NoEagleSound,NoEagleSound,,1129,,Cotabato,converted_18678_seg0013.wav,Cotabato\NoEagleSound,converted_18678.wav,NoEagleSound
+287.7533142,292.7533142,NoEagleSound,NoEagleSound,,1107,,Cotabato,converted_18677_seg0080.wav,Cotabato\NoEagleSound,converted_18677.wav,NoEagleSound
+334.9073319,339.9073319,NoEagleSound,NoEagleSound,,118,,Davao del Sur,converted_179795_seg0035.wav,Davao del Sur\NoEagleSound,converted_179795.wav,NoEagleSound
+121.7127894,126.7127894,NoEagleSound,NoEagleSound,,1677,,Davao del Sur,converted_converted_135598_seg0404.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+222.8598695,227.8598695,NoEagleSound,NoEagleSound,,233,,Davao del Sur,converted_179796_seg0121.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+8.901368575,13.90136858,NoEagleSound,NoEagleSound,,1016,,Cotabato,converted_18662_seg0016.wav,Cotabato\NoEagleSound,converted_18662.wav,NoEagleSound
+153.7747525,158.7747525,NoEagleSound,NoEagleSound,,1153,,Cotabato,converted_18679_seg0027.wav,Cotabato\NoEagleSound,converted_18679.wav,NoEagleSound
+85.18835828,90.18835828,NoEagleSound,NoEagleSound,,890,,Cotabato,converted_18636_seg0047.wav,Cotabato\NoEagleSound,converted_18636.wav,NoEagleSound
+37.65321578,42.65321578,NoEagleSound,NoEagleSound,,457,,Davao del Sur,converted_18531_seg0065.wav,Davao del Sur\NoEagleSound,converted_18531.wav,NoEagleSound
+221.2210319,226.2210319,NoEagleSound,NoEagleSound,,616,,Davao del Sur,converted_18536_seg0055.wav,Davao del Sur\NoEagleSound,converted_18536.wav,NoEagleSound
+2143.596373,2148.596373,NoEagleSound,NoEagleSound,,1785,,Davao del Sur,converted_converted_135598_seg0512.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+1846.526054,1851.526054,NoEagleSound,NoEagleSound,,1678,,Davao del Sur,converted_converted_135598_seg0405.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+211.2285754,216.2285754,NoEagleSound,NoEagleSound,,1030,,Cotabato,converted_18663_seg0008.wav,Cotabato\NoEagleSound,converted_18663.wav,NoEagleSound
+415.2786174,420.2786174,NoEagleSound,NoEagleSound,,1648,,Davao del Sur,converted_converted_135598_seg0375.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+649.2794075,654.2794075,NoEagleSound,NoEagleSound,,1687,,Davao del Sur,converted_converted_135598_seg0414.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+2174.843659,2179.843659,NoEagleSound,NoEagleSound,,1679,,Davao del Sur,converted_converted_135598_seg0406.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+182.5949143,187.5949143,NoEagleSound,NoEagleSound,,60,,Davao del Sur,converted_176495_seg0104.wav,Davao del Sur\NoEagleSound,converted_176495.wav,NoEagleSound
+245.7477652,250.7477652,NoEagleSound,NoEagleSound,,639,,Davao del Sur,converted_18537_seg0026.wav,Davao del Sur\NoEagleSound,converted_18537.wav,NoEagleSound
+98.01677826,103.0167783,NoEagleSound,NoEagleSound,,534,,Davao del Sur,converted_18534_seg0013.wav,Davao del Sur\NoEagleSound,converted_18534.wav,NoEagleSound
+216.8116712,221.8116712,NoEagleSound,NoEagleSound,,573,,Davao del Sur,converted_18535_seg0052.wav,Davao del Sur\NoEagleSound,converted_18535.wav,NoEagleSound
+298.5241673,303.5241673,NoEagleSound,NoEagleSound,,462,,Davao del Sur,converted_18531_seg0070.wav,Davao del Sur\NoEagleSound,converted_18531.wav,NoEagleSound
+689.1287973,694.1287973,NoEagleSound,NoEagleSound,,1634,,Davao del Sur,converted_converted_135598_seg0361.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+63.10596352,68.10596352,NoEagleSound,NoEagleSound,,698,,Cotabato,converted_18539_seg0011.wav,Cotabato\NoEagleSound,converted_18539.wav,NoEagleSound
+25.77396508,30.77396508,NoEagleSound,NoEagleSound,,1275,,Cotabato,converted_18681_seg0014.wav,Cotabato\NoEagleSound,converted_18681.wav,NoEagleSound
+271.4381341,276.4381341,NoEagleSound,NoEagleSound,,1673,,Davao del Sur,converted_converted_135598_seg0400.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+108.314167,113.314167,NoEagleSound,NoEagleSound,,795,,Cotabato,converted_18545_seg0120.wav,Cotabato\NoEagleSound,converted_18545.wav,NoEagleSound
+120.6284076,125.6284076,NoEagleSound,NoEagleSound,,938,,Cotabato,converted_18655_seg0037.wav,Cotabato\NoEagleSound,converted_18655.wav,NoEagleSound
+2048.441301,2053.441301,NoEagleSound,NoEagleSound,,1773,,Davao del Sur,converted_converted_135598_seg0500.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+782.5687009,787.5687009,NoEagleSound,NoEagleSound,,240,,Davao del Sur,converted_179796_seg0128.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+829.5063583,834.5063583,NoEagleSound,NoEagleSound,,272,,Davao del Sur,converted_179796_seg0160.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+346.7875136,351.7875136,NoEagleSound,NoEagleSound,,667,,Davao del Sur,converted_18537_seg0054.wav,Davao del Sur\NoEagleSound,converted_18537.wav,NoEagleSound
+673.6697231,678.6697231,NoEagleSound,NoEagleSound,,225,,Davao del Sur,converted_179796_seg0113.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+243.3236414,248.3236414,NoEagleSound,NoEagleSound,,811,,Cotabato,converted_18601_seg0020.wav,Cotabato\NoEagleSound,converted_18601.wav,NoEagleSound
+272.8669586,277.8669586,NoEagleSound,NoEagleSound,,831,,Cotabato,converted_18601_seg0040.wav,Cotabato\NoEagleSound,converted_18601.wav,NoEagleSound
+5.549347177,10.54934718,NoEagleSound,NoEagleSound,,975,,Cotabato,converted_18658_seg0014.wav,Cotabato\NoEagleSound,converted_18658.wav,NoEagleSound
+1637.85836,1642.85836,NoEagleSound,NoEagleSound,,1756,,Davao del Sur,converted_converted_135598_seg0483.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+387.4487748,392.4487748,NoEagleSound,NoEagleSound,,190,,Davao del Sur,converted_179796_seg0078.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+97.14165376,102.1416538,NoEagleSound,NoEagleSound,,1778,,Davao del Sur,converted_converted_135598_seg0505.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+1495.646214,1500.646214,NoEagleSound,NoEagleSound,,281,,Davao del Sur,converted_179796_seg0169.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+48.10716496,53.10716496,NoEagleSound,NoEagleSound,,554,,Davao del Sur,converted_18535_seg0033.wav,Davao del Sur\NoEagleSound,converted_18535.wav,NoEagleSound
+238.2097077,243.2097077,NoEagleSound,NoEagleSound,,828,,Cotabato,converted_18601_seg0037.wav,Cotabato\NoEagleSound,converted_18601.wav,NoEagleSound
+78.39472024,83.39472024,NoEagleSound,NoEagleSound,,404,,Davao del Sur,converted_18524_seg0043.wav,Davao del Sur\NoEagleSound,converted_18524.wav,NoEagleSound
+157.1195185,162.1195185,NoEagleSound,NoEagleSound,,1261,,Cotabato,converted_18680_seg0067.wav,Cotabato\NoEagleSound,converted_18680.wav,NoEagleSound
+65.18057911,70.18057911,NoEagleSound,NoEagleSound,,369,,Davao Oriental,converted_18518_seg0015.wav,Davao Oriental\NoEagleSound,converted_18518.wav,NoEagleSound
+69.05546405,74.05546405,NoEagleSound,NoEagleSound,,144,,Davao del Sur,converted_179795_seg0061.wav,Davao del Sur\NoEagleSound,converted_179795.wav,NoEagleSound
+217.1312042,222.1312042,NoEagleSound,NoEagleSound,,421,,Davao del Sur,converted_18524_seg0060.wav,Davao del Sur\NoEagleSound,converted_18524.wav,NoEagleSound
+1600.323098,1605.323098,NoEagleSound,NoEagleSound,,231,,Davao del Sur,converted_179796_seg0119.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+148.2997617,153.2997617,NoEagleSound,NoEagleSound,,446,,Davao del Sur,converted_18531_seg0054.wav,Davao del Sur\NoEagleSound,converted_18531.wav,NoEagleSound
+169.5508918,174.5508918,NoEagleSound,NoEagleSound,,836,,Cotabato,converted_18601_seg0045.wav,Cotabato\NoEagleSound,converted_18601.wav,NoEagleSound
+312.7404858,317.7404858,NoEagleSound,NoEagleSound,,500,,Davao del Sur,converted_18532_seg0058.wav,Davao del Sur\NoEagleSound,converted_18532.wav,NoEagleSound
+104.7786236,109.7786236,NoEagleSound,NoEagleSound,,1277,,Cotabato,converted_18681_seg0016.wav,Cotabato\NoEagleSound,converted_18681.wav,NoEagleSound
+1240.197245,1245.197245,NoEagleSound,NoEagleSound,,244,,Davao del Sur,converted_179796_seg0132.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+480.2419452,485.2419452,NoEagleSound,NoEagleSound,,765,,Cotabato,converted_18545_seg0090.wav,Cotabato\NoEagleSound,converted_18545.wav,NoEagleSound
+103.2630476,108.2630476,NoEagleSound,NoEagleSound,,1385,,Cotabato,converted_289_seg0021.wav,Cotabato\NoEagleSound,converted_289.wav,NoEagleSound
+1175.348606,1180.348606,NoEagleSound,NoEagleSound,,1803,,Davao del Sur,converted_converted_135598_seg0530.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+298.8772884,303.8772884,NoEagleSound,NoEagleSound,,761,,Cotabato,converted_18545_seg0086.wav,Cotabato\NoEagleSound,converted_18545.wav,NoEagleSound
+187.0753059,192.0753059,NoEagleSound,NoEagleSound,,512,,Davao del Sur,converted_18532_seg0070.wav,Davao del Sur\NoEagleSound,converted_18532.wav,NoEagleSound
+271.7721535,276.7721535,NoEagleSound,NoEagleSound,,1230,,Cotabato,converted_18680_seg0036.wav,Cotabato\NoEagleSound,converted_18680.wav,NoEagleSound
+1195.416938,1200.416938,NoEagleSound,NoEagleSound,,264,,Davao del Sur,converted_179796_seg0152.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+256.5085567,261.5085567,NoEagleSound,NoEagleSound,,88,,Davao del Sur,converted_176495_seg0132.wav,Davao del Sur\NoEagleSound,converted_176495.wav,NoEagleSound
+568.0708458,573.0708458,NoEagleSound,NoEagleSound,,782,,Cotabato,converted_18545_seg0107.wav,Cotabato\NoEagleSound,converted_18545.wav,NoEagleSound
+1424.408349,1429.408349,NoEagleSound,NoEagleSound,,293,,Davao del Sur,converted_179796_seg0181.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+162.7199777,167.7199777,NoEagleSound,NoEagleSound,,1045,,Cotabato,converted_18663_seg0023.wav,Cotabato\NoEagleSound,converted_18663.wav,NoEagleSound
+56.44854628,61.44854628,NoEagleSound,NoEagleSound,,269,,Davao del Sur,converted_179796_seg0157.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+159.5153655,164.5153655,NoEagleSound,NoEagleSound,,889,,Cotabato,converted_18636_seg0046.wav,Cotabato\NoEagleSound,converted_18636.wav,NoEagleSound
+544.3907608,549.3907608,NoEagleSound,NoEagleSound,,273,,Davao del Sur,converted_179796_seg0161.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+499.6012197,504.6012197,NoEagleSound,NoEagleSound,,784,,Cotabato,converted_18545_seg0109.wav,Cotabato\NoEagleSound,converted_18545.wav,NoEagleSound
+153.3933342,158.3933342,NoEagleSound,NoEagleSound,,1309,,Cotabato,converted_18683_seg0004.wav,Cotabato\NoEagleSound,converted_18683.wav,NoEagleSound
+32.91180593,37.91180593,NoEagleSound,NoEagleSound,,864,,Cotabato,converted_18620_seg0006.wav,Cotabato\NoEagleSound,converted_18620.wav,NoEagleSound
+433.3558363,438.3558363,NoEagleSound,NoEagleSound,,757,,Cotabato,converted_18545_seg0082.wav,Cotabato\NoEagleSound,converted_18545.wav,NoEagleSound
+293.7729527,298.7729527,NoEagleSound,NoEagleSound,,148,,Davao del Sur,converted_179795_seg0065.wav,Davao del Sur\NoEagleSound,converted_179795.wav,NoEagleSound
+940.0260401,945.0260401,NoEagleSound,NoEagleSound,,1628,,Davao del Sur,converted_converted_135598_seg0355.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+36.83443145,41.83443145,NoEagleSound,NoEagleSound,,345,,Davao del Sur,converted_182399_seg0023.wav,Davao del Sur\NoEagleSound,converted_182399.wav,NoEagleSound
+145.5820549,150.5820549,NoEagleSound,NoEagleSound,,314,,Davao del Sur,converted_179796_seg0202.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+302.6458335,307.6458335,NoEagleSound,NoEagleSound,,1219,,Cotabato,converted_18680_seg0025.wav,Cotabato\NoEagleSound,converted_18680.wav,NoEagleSound
+1522.307193,1527.307193,NoEagleSound,NoEagleSound,,232,,Davao del Sur,converted_179796_seg0120.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+251.1954881,256.1954881,NoEagleSound,NoEagleSound,,906,,Cotabato,converted_18636_seg0063.wav,Cotabato\NoEagleSound,converted_18636.wav,NoEagleSound
+289.5014361,294.5014361,NoEagleSound,NoEagleSound,,1195,,Cotabato,converted_18679_seg0069.wav,Cotabato\NoEagleSound,converted_18679.wav,NoEagleSound
+151.9185779,156.9185779,NoEagleSound,NoEagleSound,,285,,Davao del Sur,converted_179796_seg0173.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+402.3735192,407.3735192,NoEagleSound,NoEagleSound,,116,,Davao del Sur,converted_179795_seg0033.wav,Davao del Sur\NoEagleSound,converted_179795.wav,NoEagleSound
+1541.602597,1546.602597,NoEagleSound,NoEagleSound,,208,,Davao del Sur,converted_179796_seg0096.wav,Davao del Sur\NoEagleSound,converted_179796.wav,NoEagleSound
+42.22551347,47.22551347,NoEagleSound,NoEagleSound,,1074,,Cotabato,converted_18675_seg0031.wav,Cotabato\NoEagleSound,converted_18675.wav,NoEagleSound
+1346.062539,1351.062539,NoEagleSound,NoEagleSound,,1801,,Davao del Sur,converted_converted_135598_seg0528.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+14.10192677,19.10192677,NoEagleSound,NoEagleSound,,1336,,Cotabato,converted_18705_seg0001.wav,Cotabato\NoEagleSound,converted_18705.wav,NoEagleSound
+86.88266677,91.88266677,NoEagleSound,NoEagleSound,,706,,Cotabato,converted_18539_seg0019.wav,Cotabato\NoEagleSound,converted_18539.wav,NoEagleSound
+184.5382342,189.5382342,NoEagleSound,NoEagleSound,,685,,Davao del Sur,converted_18537_seg0072.wav,Davao del Sur\NoEagleSound,converted_18537.wav,NoEagleSound
+362.1767428,367.1767428,NoEagleSound,NoEagleSound,,84,,Davao del Sur,converted_176495_seg0128.wav,Davao del Sur\NoEagleSound,converted_176495.wav,NoEagleSound
+2154.870415,2159.870415,NoEagleSound,NoEagleSound,,1632,,Davao del Sur,converted_converted_135598_seg0359.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+919.596075,924.596075,NoEagleSound,NoEagleSound,,1618,,Davao del Sur,converted_converted_135598_seg0345.wav,Davao del Sur\NoEagleSound,converted_converted_135598.wav,NoEagleSound
+25.03641688,30.03641688,NoEagleSound,NoEagleSound,,1375,,Cotabato,converted_289_seg0011.wav,Cotabato\NoEagleSound,converted_289.wav,NoEagleSound
+9.076233163,14.07623316,NoEagleSound,NoEagleSound,,1411,,Bukidnon,converted_72118711_seg0003.wav,Bukidnon\NoEagleSound,converted_72118711.wav,NoEagleSound
+229.3904348,234.3904348,NoEagleSound,NoEagleSound,,557,,Davao del Sur,converted_18535_seg0036.wav,Davao del Sur\NoEagleSound,converted_18535.wav,NoEagleSound
